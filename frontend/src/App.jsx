@@ -95,9 +95,11 @@ export default function App() {
     }
   }, [selectedDataset]);
 
+  const API_BASE = import.meta.env.VITE_API_BASE_URL || '';
+
   const fetchDatasets = async () => {
     try {
-      const res = await fetch('/api/datasets');
+      const res = await fetch(`${API_BASE}/api/datasets`);
       const data = await res.json();
       setDatasetsList(data.datasets || []);
     } catch (err) {
@@ -107,7 +109,7 @@ export default function App() {
 
   const loadProfile = async (datasetId) => {
     try {
-      const res = await fetch('/api/profile', {
+      const res = await fetch(`${API_BASE}/api/profile`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ dataset_id: datasetId })
@@ -177,7 +179,7 @@ export default function App() {
       formData.append('file', file);
 
       try {
-        const res = await fetch('/api/upload', {
+        const res = await fetch(`${API_BASE}/api/upload`, {
           method: 'POST',
           body: formData
         });
@@ -227,7 +229,7 @@ export default function App() {
         const controller = new AbortController();
         const timeoutId = setTimeout(() => controller.abort(), 5000);
 
-        const res = await fetch('/api/generate', {
+        const res = await fetch(`${API_BASE}/api/generate`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
@@ -344,7 +346,7 @@ export default function App() {
   const handleDownloadCSV = async () => {
     const dsId = genResult?.dataset_id || selectedDataset;
     try {
-      const res = await fetch(`/api/download/csv/${dsId}`);
+      const res = await fetch(`${API_BASE}/api/download/csv/${dsId}`);
       if (res.ok) {
         const blob = await res.blob();
         const url = window.URL.createObjectURL(blob);
@@ -422,7 +424,7 @@ export default function App() {
   const handleDownloadReport = async () => {
     const dsId = selectedDataset || 'healthcare';
     try {
-      const res = await fetch(`/api/download/report/${dsId}`);
+      const res = await fetch(`${API_BASE}/api/download/report/${dsId}`);
       if (res.ok) {
         const blob = await res.blob();
         const url = window.URL.createObjectURL(blob);
@@ -473,7 +475,7 @@ export default function App() {
 
   const runEvaluation = async (datasetId) => {
     try {
-      const res = await fetch('/api/evaluate', {
+      const res = await fetch(`${API_BASE}/api/evaluate`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ dataset_id: datasetId })
