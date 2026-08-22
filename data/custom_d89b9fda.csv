@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Cancer_Type,Laterality,Date_of_Diagnosis,Stage_at_Diagnosis,Treatment_Type,Surgery_Status,Radiation_Therapy,Chemotherapy,Outcome_Status,Survival_Time_Months,Genetic_Markers,Family_History,Country
+PID00001,58,F,Retinoblastoma,Left,2019-01-25,Stage IV,Radiation,False,15,3,Deceased,85,,True,UK
+PID00002,15,Other,Retinoblastoma,Right,2021-10-21,Stage III,Chemotherapy,True,69,6,In Remission,10,,True,Japan
+PID00003,64,M,Retinoblastoma,Bilateral,2021-03-12,Stage IV,Surgery,False,47,6,In Remission,3,BRAF Mutation,False,UK
+PID00004,33,M,Melanoma,Right,2021-05-10,Stage II,Radiation,True,36,6,Active,40,,False,Canada
+PID00005,8,Other,Lymphoma,Left,2019-11-24,Stage I,Chemotherapy,False,14,14,In Remission,26,BRAF Mutation,True,USA
+PID00006,41,Other,Retinoblastoma,Bilateral,2023-01-13,Stage III,Surgery,True,11,17,Active,15,BRAF Mutation,True,UK
+PID00007,67,Other,Lymphoma,Right,2019-06-05,Stage I,Surgery,False,50,2,Deceased,93,BRAF Mutation,False,Australia
+PID00008,26,Other,Retinoblastoma,Bilateral,2024-10-23,Stage III,Radiation,False,46,13,In Remission,9,BRAF Mutation,True,Germany
+PID00009,5,Other,Retinoblastoma,Right,2021-06-09,Stage I,Chemotherapy,False,48,7,In Remission,12,,True,USA
+PID00010,23,M,Lymphoma,Right,2022-12-29,Stage IV,Surgery,False,42,2,In Remission,116,,True,South Africa
+PID00011,63,Other,Lymphoma,Bilateral,2019-05-16,Stage II,Surgery,False,45,17,Deceased,99,,True,UK
+PID00012,22,F,Lymphoma,Right,2024-08-22,Stage IV,Radiation,False,65,3,Deceased,25,BRAF Mutation,True,UK
+PID00013,62,Other,Retinoblastoma,Right,2019-04-08,Stage IV,Chemotherapy,False,49,7,In Remission,30,,True,Brazil
+PID00014,69,M,Lymphoma,Right,2024-03-04,Stage I,Surgery,False,14,15,Deceased,10,BRAF Mutation,True,Brazil
+PID00015,72,Other,Retinoblastoma,Left,2024-09-05,Stage I,Surgery,False,51,5,Active,104,BRAF Mutation,False,Canada
+PID00016,86,Other,Lymphoma,Bilateral,2023-04-05,Stage I,Surgery,False,2,14,Deceased,56,,False,France
+PID00017,11,M,Lymphoma,Bilateral,2023-02-01,Stage II,Radiation,True,1,20,Deceased,43,,False,USA
+PID00018,4,M,Retinoblastoma,Bilateral,2023-09-24,Stage I,Radiation,True,10,4,Active,82,BRAF Mutation,True,France
+PID00019,27,M,Lymphoma,Right,2020-04-24,Stage II,Chemotherapy,True,4,6,Active,16,BRAF Mutation,False,France
+PID00020,46,Other,Melanoma,Right,2023-10-04,Stage IV,Surgery,True,15,11,Active,111,,False,Australia

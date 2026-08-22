@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sdv
+ctgan
+fastapi
+uvicorn
+pydantic
+python-multipart
+fpdf2

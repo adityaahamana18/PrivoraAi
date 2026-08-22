@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Cancer_Type,Laterality,Date_of_Diagnosis,Stage_at_Diagnosis,Treatment_Type,Surgery_Status,Radiation_Therapy,Chemotherapy,Outcome_Status,Survival_Time_Months,Genetic_Markers,Family_History,Country
+sdv-id-pZsIGq,43,F,Melanoma,Right,2019-07-01,Stage II,Radiation,False,36,14,In Remission,45,BRAF Mutation,True,UK
+sdv-id-JnOWFJ,28,Other,Lymphoma,Right,2024-03-03,Stage III,Surgery,True,14,4,In Remission,79,,False,South Africa
+sdv-id-kyAtru,1,Other,Melanoma,Left,2019-10-22,Stage III,Chemotherapy,False,42,12,In Remission,26,,False,UK
+sdv-id-flfAiz,72,Other,Retinoblastoma,Left,2019-01-02,Stage II,Surgery,True,60,13,In Remission,109,BRAF Mutation,False,Germany
+sdv-id-lNTWCC,72,M,Lymphoma,Bilateral,2023-11-13,Stage I,Radiation,True,17,6,In Remission,100,,True,Australia
+sdv-id-UtOZHx,46,F,Melanoma,Right,2020-11-30,Stage III,Radiation,True,14,9,Deceased,68,,True,Brazil
+sdv-id-psHXZw,21,M,Lymphoma,Bilateral,2019-04-30,Stage I,Chemotherapy,True,2,10,Deceased,1,,False,South Africa
+sdv-id-EGnTUm,1,Other,Melanoma,Left,2019-12-09,Stage I,Chemotherapy,False,26,18,In Remission,91,BRAF Mutation,True,Australia
+sdv-id-jVneZc,69,Other,Lymphoma,Left,2024-09-21,Stage III,Chemotherapy,False,9,4,Active,32,,False,Australia
+sdv-id-mEZNWr,68,F,Melanoma,Left,2019-09-08,Stage II,Chemotherapy,True,30,7,Deceased,26,BRAF Mutation,False,Germany
+sdv-id-ZuLFWc,17,F,Retinoblastoma,Bilateral,2020-08-08,Stage II,Surgery,False,67,20,Active,55,BRAF Mutation,False,France
+sdv-id-WhMIHP,72,F,Retinoblastoma,Right,2024-04-30,Stage I,Surgery,True,36,6,Active,100,BRAF Mutation,True,UK
+sdv-id-utTBgE,40,Other,Retinoblastoma,Left,2023-05-25,Stage II,Surgery,True,67,5,Active,85,,False,USA
+sdv-id-FPPZaZ,40,F,Lymphoma,Bilateral,2019-05-04,Stage I,Radiation,True,2,20,Active,25,,True,Japan
+sdv-id-PRyjJh,12,Other,Melanoma,Bilateral,2022-08-22,Stage IV,Surgery,True,19,6,Deceased,22,,False,UK
+sdv-id-ZMBsLl,72,F,Retinoblastoma,Left,2024-12-30,Stage III,Surgery,False,24,4,Deceased,29,,False,France
+sdv-id-bjMBFX,22,M,Retinoblastoma,Bilateral,2024-04-27,Stage IV,Surgery,True,67,8,In Remission,13,BRAF Mutation,False,USA
+sdv-id-JjKUhN,10,Other,Melanoma,Left,2021-09-29,Stage III,Surgery,False,20,14,Active,109,,True,USA
+sdv-id-SQRLBC,43,Other,Retinoblastoma,Bilateral,2020-07-15,Stage II,Radiation,True,15,4,Active,120,BRAF Mutation,False,Brazil
+sdv-id-hJOjkh,65,Other,Retinoblastoma,Bilateral,2024-01-16,Stage IV,Chemotherapy,True,2,19,In Remission,59,BRAF Mutation,False,Canada
+sdv-id-SHzRBy,4,M,Retinoblastoma,Right,2022-12-19,Stage IV,Surgery,False,31,17,Active,52,,True,Brazil
+sdv-id-mdbyeK,72,Other,Retinoblastoma,Right,2019-04-24,Stage II,Surgery,False,34,13,In Remission,90,BRAF Mutation,False,India
+sdv-id-DmmgKz,61,M,Lymphoma,Left,2023-05-25,Stage III,Radiation,False,6,7,Deceased,105,,True,Australia
+sdv-id-roqEcZ,38,F,Retinoblastoma,Bilateral,2024-01-06,Stage III,Chemotherapy,False,26,11,In Remission,25,,False,Australia
+sdv-id-xwvXwd,50,F,Melanoma,Left,2023-03-29,Stage II,Surgery,False,51,15,In Remission,71,BRAF Mutation,False,USA
+sdv-id-TUpiqc,43,M,Melanoma,Bilateral,2021-09-13,Stage II,Surgery,True,46,20,Deceased,24,,False,South Africa
+sdv-id-rOlucH,28,F,Retinoblastoma,Left,2021-08-23,Stage II,Surgery,False,34,16,Active,23,BRAF Mutation,True,South Africa
+sdv-id-yNuEMs,72,Other,Melanoma,Left,2023-06-23,Stage I,Surgery,True,47,18,Deceased,45,,False,India
+sdv-id-WBMlad,51,Other,Retinoblastoma,Left,2020-12-31,Stage II,Radiation,False,7,8,Active,68,,False,France
+sdv-id-xrIQWZ,62,F,Retinoblastoma,Left,2023-09-24,Stage IV,Chemotherapy,True,50,4,In Remission,88,BRAF Mutation,True,Australia
+sdv-id-rMmPoW,19,M,Lymphoma,Left,2019-03-11,Stage III,Surgery,False,14,20,Active,87,,False,France
+sdv-id-kGxCJY,72,F,Retinoblastoma,Left,2020-01-25,Stage IV,Radiation,True,53,4,Active,101,BRAF Mutation,True,USA
+sdv-id-EBBQQF,53,Other,Lymphoma,Left,2024-12-30,Stage IV,Chemotherapy,False,66,12,Active,64,,False,South Africa
+sdv-id-EJmXvV,49,M,Melanoma,Bilateral,2023-06-05,Stage III,Radiation,True,42,8,Active,29,BRAF Mutation,False,Canada
+sdv-id-jMjbcO,1,M,Retinoblastoma,Right,2024-02-05,Stage IV,Radiation,False,4,14,Active,95,,True,Germany
+sdv-id-iDYmRH,52,Other,Retinoblastoma,Right,2022-06-04,Stage IV,Radiation,True,59,15,In Remission,88,BRAF Mutation,False,Australia
+sdv-id-CFJctL,72,M,Melanoma,Right,2023-10-20,Stage III,Surgery,False,57,5,Active,112,BRAF Mutation,True,Canada
+sdv-id-fotTZi,41,F,Melanoma,Right,2024-02-07,Stage I,Surgery,False,17,13,Active,90,,True,UK
+sdv-id-HVykLE,1,F,Melanoma,Bilateral,2021-08-03,Stage III,Surgery,False,62,7,Active,6,,True,India
+sdv-id-XQOQYa,26,M,Retinoblastoma,Right,2022-05-22,Stage II,Surgery,True,2,4,In Remission,117,,False,Canada
+sdv-id-pRVAdp,66,F,Lymphoma,Right,2019-06-03,Stage II,Radiation,False,54,4,Active,117,BRAF Mutation,False,Japan
+sdv-id-oAUPoO,22,F,Retinoblastoma,Right,2022-05-10,Stage III,Radiation,True,36,4,In Remission,56,,True,India
+sdv-id-mcGOer,6,Other,Retinoblastoma,Bilateral,2021-02-07,Stage IV,Radiation,False,50,4,In Remission,111,,True,France
+sdv-id-reLrNj,70,Other,Retinoblastoma,Bilateral,2024-12-30,Stage I,Surgery,False,19,17,Active,101,BRAF Mutation,False,Australia
+sdv-id-ZrmGkg,58,M,Melanoma,Right,2019-01-02,Stage I,Chemotherapy,False,30,16,Deceased,78,,True,Canada
+sdv-id-IniOHY,47,Other,Retinoblastoma,Bilateral,2024-01-06,Stage III,Radiation,True,60,20,In Remission,120,BRAF Mutation,True,Brazil
+sdv-id-lzftmX,72,Other,Melanoma,Bilateral,2024-01-26,Stage II,Radiation,True,14,4,Active,22,,False,South Africa
+sdv-id-PfPLkl,69,Other,Melanoma,Bilateral,2021-05-02,Stage III,Radiation,False,57,10,Active,120,,False,France
+sdv-id-DvLOts,72,M,Lymphoma,Bilateral,2023-09-21,Stage II,Radiation,False,50,9,Deceased,82,BRAF Mutation,True,Germany
+sdv-id-gyEZAB,58,M,Retinoblastoma,Bilateral,2019-09-08,Stage I,Radiation,False,33,20,Active,44,,False,Canada
+sdv-id-tziqkU,1,M,Lymphoma,Left,2024-12-30,Stage I,Surgery,False,65,9,Active,56,BRAF Mutation,True,Canada
+sdv-id-HnrDff,72,F,Lymphoma,Right,2019-01-02,Stage IV,Radiation,True,55,4,In Remission,31,,True,Germany
+sdv-id-QDHfih,69,M,Melanoma,Left,2022-12-06,Stage IV,Chemotherapy,False,66,8,In Remission,62,,True,Brazil
+sdv-id-GvckhR,56,M,Melanoma,Bilateral,2019-09-26,Stage IV,Surgery,True,50,20,Active,43,BRAF Mutation,False,Australia
+sdv-id-rCSylb,39,F,Lymphoma,Bilateral,2019-03-04,Stage I,Chemotherapy,True,39,4,In Remission,76,,False,South Africa
+sdv-id-jEJnZU,72,F,Retinoblastoma,Right,2024-02-25,Stage II,Surgery,True,14,4,Active,39,,False,Japan
+sdv-id-PEBQhu,6,F,Melanoma,Bilateral,2023-05-04,Stage III,Surgery,True,63,20,Deceased,1,BRAF Mutation,False,South Africa
+sdv-id-DGhvha,51,F,Melanoma,Left,2024-06-25,Stage IV,Radiation,False,2,20,In Remission,120,BRAF Mutation,True,USA
+sdv-id-REaeWy,49,M,Retinoblastoma,Left,2020-04-04,Stage IV,Radiation,True,7,12,Active,27,,False,India
+sdv-id-bPzUar,72,Other,Lymphoma,Bilateral,2019-02-23,Stage III,Surgery,True,21,20,In Remission,100,,True,Germany
+sdv-id-wHfVbc,60,M,Lymphoma,Left,2021-12-25,Stage IV,Chemotherapy,True,58,15,In Remission,60,BRAF Mutation,False,India
+sdv-id-ZAMsqR,37,M,Retinoblastoma,Left,2023-09-28,Stage I,Radiation,False,2,6,In Remission,48,BRAF Mutation,False,India
+sdv-id-TpSvul,72,M,Melanoma,Left,2024-07-25,Stage III,Radiation,False,26,4,Deceased,27,,False,South Africa
+sdv-id-SgQuLm,34,M,Lymphoma,Bilateral,2023-11-04,Stage II,Radiation,True,38,6,In Remission,77,,True,UK
+sdv-id-VxiXNc,72,Other,Lymphoma,Right,2020-10-26,Stage II,Surgery,False,39,14,Active,116,BRAF Mutation,False,Germany
+sdv-id-rdLxYS,14,Other,Lymphoma,Bilateral,2019-10-27,Stage IV,Surgery,False,33,5,In Remission,19,,False,Canada
+sdv-id-cAziuK,9,M,Lymphoma,Bilateral,2023-06-12,Stage II,Surgery,False,14,14,In Remission,67,,True,Japan
+sdv-id-eLspvT,72,F,Retinoblastoma,Right,2024-12-30,Stage I,Surgery,False,2,16,Deceased,120,BRAF Mutation,True,Canada
+sdv-id-XuvabP,43,M,Melanoma,Right,2023-04-28,Stage III,Surgery,False,21,15,In Remission,26,BRAF Mutation,True,UK
+sdv-id-TrWYGP,72,Other,Lymphoma,Left,2022-09-07,Stage II,Chemotherapy,True,46,20,Active,43,,False,Germany
+sdv-id-aGddiv,34,F,Retinoblastoma,Bilateral,2020-10-01,Stage II,Surgery,True,67,14,In Remission,83,BRAF Mutation,True,Japan
+sdv-id-EblPDr,72,Other,Lymphoma,Left,2023-05-12,Stage II,Radiation,False,27,20,Active,66,BRAF Mutation,True,USA
+sdv-id-Gdiizc,72,M,Retinoblastoma,Right,2023-10-14,Stage I,Chemotherapy,True,67,6,In Remission,32,,True,Australia
+sdv-id-PkWCsf,51,F,Lymphoma,Right,2022-08-19,Stage IV,Chemotherapy,False,23,10,In Remission,18,,True,Brazil
+sdv-id-WAdwfa,72,Other,Lymphoma,Right,2023-03-01,Stage III,Radiation,False,11,20,Deceased,106,,True,India
+sdv-id-mOcpZk,46,Other,Lymphoma,Right,2023-10-15,Stage I,Chemotherapy,True,61,20,In Remission,111,BRAF Mutation,False,UK
+sdv-id-aYZbxf,72,M,Retinoblastoma,Right,2024-09-10,Stage IV,Radiation,True,23,4,In Remission,74,,False,Germany
+sdv-id-eYzRdH,56,F,Melanoma,Right,2021-02-12,Stage IV,Chemotherapy,False,67,4,Active,74,,False,Canada
+sdv-id-LRwSmY,72,F,Lymphoma,Left,2022-02-06,Stage III,Chemotherapy,True,57,15,Active,86,,False,USA
+sdv-id-wGUwie,72,F,Melanoma,Bilateral,2020-12-09,Stage I,Radiation,False,6,17,Deceased,60,,False,Germany
+sdv-id-oLNtQm,37,F,Melanoma,Left,2022-07-21,Stage IV,Chemotherapy,False,28,10,Deceased,98,BRAF Mutation,True,Brazil
+sdv-id-QatSZr,23,Other,Melanoma,Left,2021-12-31,Stage IV,Radiation,False,21,5,In Remission,69,BRAF Mutation,True,Brazil
+sdv-id-vcoxkl,72,M,Retinoblastoma,Right,2024-04-04,Stage IV,Surgery,False,55,4,Active,116,BRAF Mutation,False,India
+sdv-id-YEjivo,59,F,Retinoblastoma,Left,2023-04-19,Stage I,Radiation,False,3,6,Deceased,118,,True,Japan
+sdv-id-IDEvyQ,13,F,Melanoma,Left,2023-12-25,Stage I,Surgery,True,59,4,In Remission,85,,False,Australia
+sdv-id-irHBaT,54,Other,Retinoblastoma,Right,2022-03-09,Stage IV,Chemotherapy,True,2,5,Active,73,,True,Germany
+sdv-id-xXqQGW,43,M,Lymphoma,Bilateral,2020-01-17,Stage III,Surgery,True,58,4,In Remission,94,,False,Germany
+sdv-id-IZhpcl,72,M,Melanoma,Left,2019-01-02,Stage II,Chemotherapy,False,36,4,Active,120,,True,France
+sdv-id-VtUBEV,72,M,Lymphoma,Bilateral,2023-12-09,Stage III,Chemotherapy,True,28,4,Deceased,120,BRAF Mutation,False,UK
+sdv-id-LRPuhE,62,M,Retinoblastoma,Left,2021-08-19,Stage III,Surgery,True,4,7,In Remission,88,,False,UK
+sdv-id-LoJQMy,6,M,Retinoblastoma,Left,2023-02-10,Stage IV,Chemotherapy,False,56,17,Deceased,49,,False,USA
+sdv-id-nLyScu,28,M,Retinoblastoma,Right,2019-01-02,Stage IV,Chemotherapy,False,25,4,Active,61,BRAF Mutation,False,Japan
+sdv-id-DudUqB,70,M,Retinoblastoma,Left,2024-12-30,Stage III,Surgery,False,37,11,Active,77,BRAF Mutation,True,Canada
+sdv-id-FMOclO,63,Other,Lymphoma,Right,2020-03-08,Stage II,Radiation,True,26,11,In Remission,94,BRAF Mutation,False,France
+sdv-id-KiFmJd,1,F,Lymphoma,Right,2023-12-02,Stage I,Chemotherapy,True,25,20,In Remission,71,,True,Canada
+sdv-id-nbpKlw,6,Other,Lymphoma,Left,2020-11-16,Stage II,Radiation,True,4,4,In Remission,45,,True,Australia
+sdv-id-vySvKX,57,Other,Melanoma,Left,2022-04-03,Stage I,Radiation,True,3,4,Deceased,90,BRAF Mutation,True,USA
+sdv-id-FMulcs,72,Other,Lymphoma,Right,2023-06-01,Stage I,Surgery,False,57,5,In Remission,29,,False,Germany
+sdv-id-omooLc,12,M,Lymphoma,Bilateral,2019-01-02,Stage II,Chemotherapy,True,50,18,Active,120,,True,France
+sdv-id-UmfyTU,34,F,Melanoma,Left,2020-02-26,Stage III,Chemotherapy,False,47,4,Deceased,42,BRAF Mutation,True,Brazil
+sdv-id-amYXrE,72,F,Lymphoma,Left,2021-07-10,Stage I,Surgery,True,28,4,Deceased,73,BRAF Mutation,True,Australia
+sdv-id-wYyjZg,72,F,Melanoma,Left,2023-06-21,Stage IV,Radiation,False,43,7,Active,94,,True,USA
+sdv-id-Kwejev,60,F,Melanoma,Right,2020-06-05,Stage III,Chemotherapy,True,11,20,In Remission,88,,False,Australia
+sdv-id-cqjwHH,62,Other,Lymphoma,Right,2022-09-28,Stage II,Chemotherapy,False,67,7,Deceased,43,BRAF Mutation,True,Australia
+sdv-id-nPFDqI,1,Other,Lymphoma,Left,2023-04-06,Stage IV,Surgery,True,52,5,In Remission,35,BRAF Mutation,True,USA
+sdv-id-asEyvD,54,F,Melanoma,Left,2024-04-05,Stage II,Chemotherapy,False,12,4,Active,103,,True,UK
+sdv-id-TFnGsV,72,F,Melanoma,Bilateral,2020-05-25,Stage II,Chemotherapy,False,60,8,Active,35,,False,France
+sdv-id-nENyuf,28,Other,Lymphoma,Right,2024-08-20,Stage IV,Surgery,True,49,10,Deceased,74,,True,Brazil
+sdv-id-rtoyGP,66,M,Retinoblastoma,Left,2020-06-07,Stage II,Radiation,False,55,5,Active,75,BRAF Mutation,False,South Africa
+sdv-id-GVQUKD,60,Other,Retinoblastoma,Bilateral,2023-02-09,Stage I,Chemotherapy,True,62,15,In Remission,28,BRAF Mutation,False,India
+sdv-id-nCfreV,66,Other,Retinoblastoma,Right,2019-06-07,Stage III,Surgery,False,46,5,Deceased,84,,False,Brazil
+sdv-id-IxKEXa,65,F,Lymphoma,Right,2021-11-08,Stage I,Radiation,True,67,13,Active,43,,True,Brazil
+sdv-id-pZnYSH,32,F,Retinoblastoma,Bilateral,2024-09-07,Stage IV,Chemotherapy,False,29,4,In Remission,110,BRAF Mutation,False,USA
+sdv-id-QAsxOP,68,F,Lymphoma,Right,2021-11-25,Stage II,Surgery,False,43,4,Active,71,,False,Brazil
+sdv-id-nzlcrO,1,F,Retinoblastoma,Right,2022-07-13,Stage I,Surgery,False,61,9,Active,84,,True,India
+sdv-id-YvlckA,12,Other,Lymphoma,Right,2024-07-01,Stage IV,Surgery,False,54,16,In Remission,74,,False,USA
+sdv-id-sZhVlB,15,Other,Retinoblastoma,Bilateral,2023-10-05,Stage II,Chemotherapy,False,67,10,Deceased,74,,False,India
+sdv-id-ZfoKWf,62,M,Retinoblastoma,Left,2023-11-23,Stage II,Chemotherapy,False,57,5,In Remission,47,,False,Australia
+sdv-id-pUVXdq,72,Other,Lymphoma,Left,2024-11-13,Stage II,Chemotherapy,False,37,12,In Remission,97,BRAF Mutation,True,France
+sdv-id-QXpnhL,69,Other,Melanoma,Bilateral,2024-05-04,Stage IV,Chemotherapy,True,10,10,In Remission,51,BRAF Mutation,False,UK
+sdv-id-dheBHI,71,Other,Melanoma,Left,2024-04-04,Stage I,Chemotherapy,False,34,18,Active,49,,True,USA
+sdv-id-ZchkEi,64,F,Lymphoma,Bilateral,2021-10-24,Stage IV,Chemotherapy,True,57,7,In Remission,70,BRAF Mutation,True,UK
+sdv-id-SGqFbV,4,F,Retinoblastoma,Bilateral,2019-11-26,Stage II,Chemotherapy,True,14,19,Active,100,,False,Australia
+sdv-id-ypXpcG,42,F,Lymphoma,Left,2019-01-02,Stage II,Radiation,True,9,18,Active,1,,False,Brazil
+sdv-id-GiTyww,14,Other,Lymphoma,Left,2021-05-05,Stage III,Radiation,False,53,4,Deceased,27,BRAF Mutation,False,Japan
+sdv-id-UNvXCD,1,M,Retinoblastoma,Bilateral,2020-05-11,Stage III,Surgery,True,39,20,Deceased,85,,False,India
+sdv-id-BtOuFI,60,M,Melanoma,Left,2022-01-16,Stage I,Chemotherapy,True,2,4,In Remission,120,,True,South Africa
+sdv-id-BSXuqB,1,M,Melanoma,Right,2023-07-28,Stage IV,Surgery,True,40,8,Deceased,27,,True,Australia
+sdv-id-OBwtGQ,72,Other,Melanoma,Bilateral,2022-07-14,Stage III,Surgery,False,26,13,Deceased,74,BRAF Mutation,False,Germany
+sdv-id-ltpQKy,72,Other,Lymphoma,Right,2021-12-11,Stage I,Chemotherapy,True,53,4,Deceased,27,,True,France
+sdv-id-pnDRED,24,M,Melanoma,Right,2019-09-18,Stage II,Surgery,False,53,7,Deceased,101,,True,Australia
+sdv-id-yeUVjK,72,F,Lymphoma,Bilateral,2023-11-11,Stage I,Radiation,True,33,9,Deceased,78,BRAF Mutation,True,Canada
+sdv-id-ltPnfS,53,Other,Retinoblastoma,Bilateral,2019-05-10,Stage III,Radiation,True,7,20,In Remission,56,,False,Canada
+sdv-id-xYUFVW,23,Other,Lymphoma,Left,2024-08-25,Stage III,Radiation,False,52,9,In Remission,33,BRAF Mutation,True,UK
+sdv-id-ECHhND,15,Other,Lymphoma,Left,2023-10-22,Stage IV,Surgery,False,41,15,Deceased,120,,False,UK
+sdv-id-jeTRGo,14,F,Retinoblastoma,Right,2022-01-20,Stage II,Surgery,False,50,4,Active,120,,False,Brazil
+sdv-id-XXWDxg,70,M,Melanoma,Right,2021-12-24,Stage II,Chemotherapy,True,29,15,Deceased,83,,False,USA
+sdv-id-gBgHVe,65,Other,Lymphoma,Bilateral,2024-12-30,Stage III,Surgery,True,4,12,Deceased,83,,False,Japan
+sdv-id-JUeaVw,42,Other,Retinoblastoma,Left,2023-06-28,Stage IV,Chemotherapy,True,56,4,Deceased,42,BRAF Mutation,False,South Africa
+sdv-id-XZOTfJ,70,Other,Retinoblastoma,Bilateral,2021-08-27,Stage III,Chemotherapy,False,32,20,Active,81,,False,Brazil
+sdv-id-ilsZim,72,Other,Retinoblastoma,Left,2019-04-01,Stage I,Surgery,False,35,4,Active,120,,False,India
+sdv-id-wLLtdQ,70,M,Lymphoma,Left,2019-10-13,Stage I,Radiation,True,36,7,Deceased,100,,False,Canada
+sdv-id-mgoKBr,65,F,Melanoma,Bilateral,2023-09-01,Stage I,Surgery,True,39,9,In Remission,120,,True,France
+sdv-id-yUAEme,31,F,Melanoma,Right,2020-06-06,Stage II,Radiation,True,20,14,Active,42,BRAF Mutation,True,India
+sdv-id-DHgQzi,68,Other,Lymphoma,Left,2024-05-31,Stage IV,Chemotherapy,False,53,16,Deceased,98,BRAF Mutation,True,Canada
+sdv-id-cYokIU,44,M,Melanoma,Bilateral,2024-01-25,Stage II,Radiation,True,58,19,Deceased,70,,True,Germany
+sdv-id-BSnuJY,43,F,Retinoblastoma,Left,2024-05-18,Stage I,Chemotherapy,True,38,6,In Remission,95,BRAF Mutation,True,Japan
+sdv-id-hOAXOF,72,F,Lymphoma,Left,2023-10-18,Stage IV,Chemotherapy,False,8,14,Active,1,BRAF Mutation,True,Brazil
+sdv-id-AWfwzm,54,M,Retinoblastoma,Right,2024-01-24,Stage I,Surgery,False,17,5,In Remission,120,,False,Germany
+sdv-id-EeZUnU,38,M,Retinoblastoma,Left,2024-09-12,Stage II,Surgery,False,64,6,In Remission,1,BRAF Mutation,False,South Africa
+sdv-id-fcPWtF,72,M,Lymphoma,Left,2024-12-30,Stage III,Surgery,False,26,7,In Remission,8,,False,Japan
+sdv-id-owhUYP,58,F,Lymphoma,Left,2019-10-03,Stage I,Surgery,False,13,6,Deceased,75,,False,Canada
+sdv-id-wuNqFS,54,M,Melanoma,Left,2020-04-18,Stage III,Chemotherapy,True,39,12,Deceased,91,BRAF Mutation,True,Germany
+sdv-id-pafDzl,30,F,Retinoblastoma,Left,2019-01-02,Stage III,Radiation,True,56,19,Deceased,118,,True,South Africa
+sdv-id-pGBUpS,21,F,Lymphoma,Left,2021-09-11,Stage III,Surgery,False,9,5,Deceased,4,BRAF Mutation,False,Canada
+sdv-id-OIrwdJ,63,F,Retinoblastoma,Right,2024-05-20,Stage IV,Radiation,False,2,6,Active,1,BRAF Mutation,False,India
+sdv-id-kHhYcJ,72,F,Retinoblastoma,Left,2022-04-08,Stage IV,Surgery,False,10,15,Active,71,BRAF Mutation,False,USA
+sdv-id-XHCaSH,20,F,Lymphoma,Right,2024-01-13,Stage II,Chemotherapy,False,52,4,Active,91,,False,Australia
+sdv-id-JEPYWB,28,Other,Lymphoma,Bilateral,2019-01-02,Stage IV,Chemotherapy,True,54,6,Active,19,,False,UK
+sdv-id-GSDLdp,72,Other,Retinoblastoma,Left,2024-12-30,Stage III,Surgery,True,17,14,Active,62,,False,Brazil
+sdv-id-LiTLCO,16,F,Lymphoma,Right,2023-08-25,Stage IV,Chemotherapy,False,56,8,Deceased,45,BRAF Mutation,False,South Africa
+sdv-id-ZsYWxA,62,M,Melanoma,Bilateral,2024-02-14,Stage III,Radiation,False,62,5,Active,58,,False,India
+sdv-id-hDWVSg,72,F,Lymphoma,Left,2022-02-17,Stage IV,Chemotherapy,True,54,4,Deceased,120,BRAF Mutation,True,Canada
+sdv-id-tRXYSc,34,F,Melanoma,Bilateral,2024-03-29,Stage II,Chemotherapy,False,58,14,Active,120,BRAF Mutation,True,Canada
+sdv-id-YejhlC,43,F,Lymphoma,Bilateral,2024-02-04,Stage II,Surgery,True,3,15,Deceased,115,,False,Japan
+sdv-id-MJUUFS,64,M,Melanoma,Bilateral,2021-06-01,Stage I,Chemotherapy,False,38,20,Deceased,99,BRAF Mutation,False,USA
+sdv-id-kRepew,36,F,Lymphoma,Right,2019-08-03,Stage I,Chemotherapy,False,2,11,Deceased,84,,False,UK
+sdv-id-ANvsTE,72,F,Lymphoma,Left,2022-12-09,Stage II,Radiation,True,33,4,Active,21,,False,Australia
+sdv-id-qLFbHP,58,M,Melanoma,Left,2024-09-05,Stage II,Surgery,False,2,4,Deceased,29,,True,Canada
+sdv-id-pJeysU,37,F,Melanoma,Left,2023-08-17,Stage III,Chemotherapy,True,52,16,In Remission,103,BRAF Mutation,False,USA
+sdv-id-iFlQwo,1,F,Retinoblastoma,Bilateral,2021-08-15,Stage I,Surgery,True,18,7,Active,7,,True,India
+sdv-id-OeUzoD,72,M,Melanoma,Bilateral,2019-11-17,Stage IV,Surgery,False,22,10,Deceased,120,,False,France
+sdv-id-iOyPUB,72,Other,Lymphoma,Right,2024-03-08,Stage I,Chemotherapy,False,33,8,Active,102,,False,Brazil
+sdv-id-WBEWOS,43,F,Melanoma,Right,2021-03-07,Stage I,Radiation,True,17,6,In Remission,75,,False,Australia
+sdv-id-heEMor,15,M,Retinoblastoma,Left,2024-05-21,Stage II,Radiation,True,45,14,In Remission,65,,False,France
+sdv-id-ZNwVtd,2,Other,Retinoblastoma,Bilateral,2022-07-17,Stage II,Chemotherapy,True,58,6,Deceased,109,BRAF Mutation,True,Australia
+sdv-id-nQGZRt,64,M,Melanoma,Bilateral,2021-01-26,Stage III,Chemotherapy,False,20,5,Active,1,,False,Germany
+sdv-id-rIJOwP,72,Other,Lymphoma,Left,2019-04-19,Stage IV,Surgery,True,34,4,Active,85,,False,USA
+sdv-id-AlPUrt,12,M,Lymphoma,Left,2023-11-28,Stage II,Chemotherapy,False,52,4,Active,65,,True,Brazil
+sdv-id-YzhrxU,8,M,Retinoblastoma,Left,2024-05-04,Stage III,Chemotherapy,False,49,4,In Remission,113,,False,Brazil
+sdv-id-cdBRvb,1,F,Lymphoma,Bilateral,2023-12-18,Stage IV,Radiation,False,67,15,In Remission,98,BRAF Mutation,True,Australia
+sdv-id-HNEgdV,66,M,Retinoblastoma,Bilateral,2021-08-13,Stage IV,Surgery,False,50,8,Deceased,118,BRAF Mutation,False,India
+sdv-id-bJlieE,46,Other,Lymphoma,Right,2024-06-17,Stage IV,Surgery,False,38,6,Deceased,120,,False,South Africa
+sdv-id-mFAErS,59,Other,Lymphoma,Bilateral,2019-09-23,Stage IV,Surgery,False,38,11,Deceased,93,,True,USA
+sdv-id-OlDjCQ,63,F,Lymphoma,Right,2019-11-22,Stage II,Radiation,False,67,4,Deceased,81,,True,Japan
+sdv-id-xeBUny,2,M,Lymphoma,Left,2024-03-28,Stage I,Surgery,True,54,15,Deceased,52,BRAF Mutation,True,Brazil
+sdv-id-AUBKcs,38,F,Melanoma,Right,2020-01-08,Stage I,Surgery,False,61,7,Active,32,BRAF Mutation,False,UK
+sdv-id-KwbaKQ,39,F,Retinoblastoma,Bilateral,2022-12-23,Stage I,Chemotherapy,False,2,4,In Remission,99,BRAF Mutation,False,Canada
+sdv-id-lOfYfo,72,F,Melanoma,Bilateral,2022-04-14,Stage IV,Chemotherapy,True,43,5,Active,54,BRAF Mutation,False,UK
+sdv-id-vTRGcp,2,Other,Retinoblastoma,Left,2022-03-11,Stage II,Chemotherapy,False,33,4,Deceased,113,,True,Germany
+sdv-id-vRzbNU,72,M,Melanoma,Left,2024-12-05,Stage II,Radiation,False,61,4,Deceased,103,,False,Australia
+sdv-id-cAzhbs,29,Other,Melanoma,Left,2019-04-24,Stage II,Radiation,True,67,6,In Remission,120,BRAF Mutation,False,USA
+sdv-id-VzJjkL,1,Other,Melanoma,Right,2022-07-23,Stage III,Chemotherapy,True,67,8,Deceased,93,,False,South Africa
+sdv-id-eHufEw,30,M,Lymphoma,Right,2022-03-24,Stage II,Chemotherapy,False,67,4,Active,108,BRAF Mutation,True,Canada
+sdv-id-WvBylf,1,Other,Melanoma,Right,2020-09-17,Stage IV,Chemotherapy,True,67,5,Deceased,55,BRAF Mutation,False,UK
+sdv-id-fkEXfC,5,Other,Melanoma,Left,2022-06-26,Stage III,Chemotherapy,True,56,12,In Remission,106,BRAF Mutation,False,USA
+sdv-id-DcEFod,58,M,Melanoma,Bilateral,2020-05-17,Stage I,Radiation,False,57,11,Deceased,120,,True,South Africa
+sdv-id-liFBYE,8,M,Retinoblastoma,Left,2021-10-04,Stage II,Surgery,True,38,8,Deceased,103,,False,USA
+sdv-id-Kuykvv,72,Other,Melanoma,Left,2021-08-12,Stage IV,Radiation,False,59,7,Deceased,97,,False,USA
+sdv-id-AeCLSC,72,M,Lymphoma,Left,2023-06-25,Stage III,Chemotherapy,True,9,9,Deceased,103,,True,Australia
+sdv-id-kDMgbS,57,F,Melanoma,Left,2020-11-04,Stage II,Surgery,False,26,9,Deceased,80,,False,France
+sdv-id-JUwlNL,60,F,Melanoma,Right,2020-08-23,Stage I,Chemotherapy,True,54,11,Active,114,,True,Japan
+sdv-id-nmjQpk,61,M,Melanoma,Right,2024-09-13,Stage I,Radiation,True,50,14,In Remission,40,BRAF Mutation,True,South Africa
+sdv-id-mcaSAD,59,M,Melanoma,Right,2019-09-01,Stage I,Radiation,True,57,4,In Remission,94,,False,France
+sdv-id-PQvWRE,33,M,Melanoma,Left,2024-12-30,Stage III,Radiation,True,67,4,Active,16,,False,USA
+sdv-id-wbqiMz,58,Other,Melanoma,Bilateral,2022-06-02,Stage I,Radiation,True,16,9,Active,22,BRAF Mutation,True,UK
+sdv-id-gzlDNE,72,F,Retinoblastoma,Bilateral,2024-07-10,Stage III,Radiation,True,20,5,Deceased,114,,True,USA
+sdv-id-fdHhGW,35,F,Lymphoma,Left,2022-09-09,Stage II,Surgery,True,47,15,Active,120,BRAF Mutation,True,Canada
+sdv-id-pVGUlo,67,M,Melanoma,Bilateral,2023-10-23,Stage IV,Surgery,False,13,6,Active,64,,True,South Africa
+sdv-id-XpbTtS,72,Other,Lymphoma,Right,2023-07-11,Stage II,Radiation,True,21,7,Deceased,23,BRAF Mutation,True,France
+sdv-id-AUIqIm,35,F,Retinoblastoma,Right,2022-08-11,Stage III,Radiation,True,56,17,In Remission,95,,True,Canada
+sdv-id-kXKLJI,59,F,Melanoma,Left,2020-03-30,Stage IV,Radiation,False,52,6,Active,17,BRAF Mutation,False,India
+sdv-id-pbGoOi,1,Other,Melanoma,Bilateral,2020-03-19,Stage I,Surgery,True,29,10,In Remission,1,BRAF Mutation,False,South Africa
+sdv-id-BRjmur,46,M,Retinoblastoma,Left,2020-03-15,Stage I,Surgery,False,2,4,In Remission,120,,False,Germany
+sdv-id-wseGup,43,M,Retinoblastoma,Left,2020-07-17,Stage IV,Chemotherapy,True,43,8,In Remission,36,BRAF Mutation,True,Germany
+sdv-id-lGJwBZ,72,F,Retinoblastoma,Left,2020-04-07,Stage III,Chemotherapy,True,58,7,Active,63,BRAF Mutation,True,France
+sdv-id-SteueN,70,M,Melanoma,Left,2022-10-03,Stage IV,Surgery,True,14,9,Deceased,120,BRAF Mutation,True,South Africa
+sdv-id-MYfIDv,33,Other,Lymphoma,Left,2022-04-26,Stage III,Surgery,True,56,4,Deceased,7,BRAF Mutation,False,USA
+sdv-id-LqRofN,72,M,Lymphoma,Left,2019-10-24,Stage III,Chemotherapy,True,26,6,Active,34,,False,South Africa
+sdv-id-iDUVJr,45,M,Retinoblastoma,Right,2019-10-25,Stage I,Radiation,False,27,6,In Remission,83,BRAF Mutation,False,Brazil
+sdv-id-IIkRuw,72,Other,Lymphoma,Right,2020-08-01,Stage I,Chemotherapy,True,22,4,Deceased,57,BRAF Mutation,False,UK
+sdv-id-DIaxNi,55,Other,Lymphoma,Right,2024-07-07,Stage IV,Radiation,True,41,4,Deceased,120,BRAF Mutation,False,Germany
+sdv-id-cjfKiX,57,M,Retinoblastoma,Bilateral,2023-10-07,Stage IV,Surgery,True,52,4,Active,94,BRAF Mutation,True,Germany
+sdv-id-PmfLwF,72,M,Retinoblastoma,Right,2020-10-10,Stage III,Chemotherapy,False,14,13,In Remission,17,,False,India
+sdv-id-ieNGhG,1,M,Retinoblastoma,Bilateral,2024-12-30,Stage III,Radiation,True,29,8,Active,35,,False,Australia
+sdv-id-qmZdfj,1,Other,Lymphoma,Bilateral,2024-01-12,Stage IV,Radiation,False,23,20,Deceased,120,,False,Japan
+sdv-id-meadvJ,54,M,Lymphoma,Bilateral,2022-01-07,Stage III,Chemotherapy,True,56,12,In Remission,48,BRAF Mutation,True,Australia
+sdv-id-jwZXdr,1,F,Melanoma,Right,2024-07-11,Stage III,Radiation,False,47,4,Active,63,,False,Australia
+sdv-id-lbUBSs,39,M,Lymphoma,Bilateral,2023-06-16,Stage I,Chemotherapy,False,54,4,In Remission,43,,False,India
+sdv-id-CaaAdN,72,Other,Retinoblastoma,Right,2021-03-14,Stage IV,Surgery,True,14,18,In Remission,120,,False,UK
+sdv-id-YTRkuw,72,Other,Retinoblastoma,Right,2024-12-24,Stage II,Chemotherapy,False,42,7,Active,37,BRAF Mutation,False,Japan
+sdv-id-YotMPT,22,F,Lymphoma,Bilateral,2022-05-19,Stage III,Radiation,False,4,7,Active,76,BRAF Mutation,True,Germany
+sdv-id-iCjRfQ,34,F,Lymphoma,Right,2020-01-30,Stage IV,Radiation,False,67,4,In Remission,120,BRAF Mutation,True,UK
+sdv-id-XhMmdU,56,M,Melanoma,Right,2024-11-10,Stage II,Surgery,True,59,5,Active,5,BRAF Mutation,False,France
+sdv-id-UpCxkw,1,Other,Lymphoma,Bilateral,2020-08-21,Stage IV,Radiation,False,67,12,Deceased,26,,True,South Africa
+sdv-id-pFwVdR,72,M,Melanoma,Left,2024-07-17,Stage III,Radiation,False,59,13,Deceased,43,BRAF Mutation,True,Canada
+sdv-id-mHJKHW,42,M,Melanoma,Left,2024-10-14,Stage III,Radiation,False,10,8,Deceased,77,BRAF Mutation,True,Brazil
+sdv-id-qLCNQl,72,F,Retinoblastoma,Right,2022-06-18,Stage I,Chemotherapy,True,36,20,In Remission,120,,True,Japan
+sdv-id-blJvxO,72,F,Retinoblastoma,Left,2023-02-17,Stage III,Radiation,False,56,14,Deceased,14,,False,South Africa
+sdv-id-TzuxLM,72,F,Lymphoma,Left,2024-07-21,Stage II,Chemotherapy,False,58,4,In Remission,94,,True,Canada
+sdv-id-xlOSUh,1,Other,Retinoblastoma,Right,2023-11-30,Stage III,Surgery,True,43,9,In Remission,62,BRAF Mutation,True,Australia
+sdv-id-fRRAPS,70,Other,Lymphoma,Left,2023-04-13,Stage IV,Chemotherapy,True,18,5,Deceased,88,BRAF Mutation,False,UK
+sdv-id-KLHfid,72,M,Retinoblastoma,Left,2021-08-16,Stage IV,Chemotherapy,True,28,15,Active,34,BRAF Mutation,True,UK
+sdv-id-hLGvxb,58,M,Lymphoma,Bilateral,2023-01-29,Stage IV,Surgery,True,39,4,Deceased,50,BRAF Mutation,False,USA
+sdv-id-WtfwbC,1,M,Lymphoma,Bilateral,2023-11-05,Stage III,Surgery,True,29,11,In Remission,53,BRAF Mutation,True,Australia
+sdv-id-oRpjyi,60,M,Retinoblastoma,Right,2023-12-13,Stage II,Chemotherapy,True,11,7,Active,71,,True,India
+sdv-id-Cyqtaj,69,M,Melanoma,Left,2020-05-12,Stage II,Radiation,False,54,9,In Remission,28,,True,India
+sdv-id-AnRzMZ,42,F,Melanoma,Left,2021-12-22,Stage IV,Chemotherapy,True,52,4,Active,120,,True,South Africa
+sdv-id-grjEad,72,Other,Melanoma,Left,2024-12-18,Stage III,Chemotherapy,True,11,20,In Remission,105,BRAF Mutation,False,Australia
+sdv-id-XQTIDK,54,M,Melanoma,Bilateral,2023-12-28,Stage IV,Radiation,False,50,8,Active,51,BRAF Mutation,True,France
+sdv-id-ydbgBZ,1,F,Retinoblastoma,Right,2019-09-09,Stage IV,Surgery,True,61,13,Deceased,120,,False,Japan
+sdv-id-mLCBml,64,Other,Melanoma,Right,2024-10-24,Stage II,Radiation,False,26,14,Deceased,35,BRAF Mutation,False,India
+sdv-id-JXpzSN,57,M,Melanoma,Right,2024-10-17,Stage I,Surgery,True,64,13,In Remission,12,,True,Brazil
+sdv-id-bQZxbc,47,F,Lymphoma,Bilateral,2019-02-09,Stage I,Radiation,True,37,12,Active,93,BRAF Mutation,False,Japan
+sdv-id-QjQoLS,57,M,Retinoblastoma,Bilateral,2019-09-04,Stage II,Surgery,False,4,4,Active,66,,True,Brazil
+sdv-id-yTKxwh,1,M,Retinoblastoma,Right,2022-04-02,Stage III,Surgery,True,20,4,In Remission,34,,True,France
+sdv-id-vLpvWg,66,F,Lymphoma,Left,2019-01-02,Stage III,Radiation,False,2,17,In Remission,82,,True,UK
+sdv-id-JVyOdh,72,M,Melanoma,Left,2020-05-22,Stage I,Surgery,True,58,4,Deceased,61,,True,Japan
+sdv-id-nRJCGl,9,M,Lymphoma,Left,2019-04-25,Stage III,Surgery,True,28,7,Active,42,,False,UK
+sdv-id-iNgbmB,72,Other,Melanoma,Left,2019-01-02,Stage IV,Surgery,True,51,5,Active,58,,True,France
+sdv-id-wHszyg,18,M,Retinoblastoma,Left,2019-08-07,Stage I,Radiation,False,41,4,Active,95,,False,South Africa
+sdv-id-LTnxIr,72,Other,Retinoblastoma,Right,2019-01-02,Stage IV,Chemotherapy,False,53,9,Active,106,BRAF Mutation,False,Brazil
+sdv-id-JURsFd,58,Other,Lymphoma,Left,2023-11-08,Stage III,Surgery,True,38,11,Deceased,98,,True,South Africa
+sdv-id-JSqoTc,6,F,Lymphoma,Right,2024-02-17,Stage II,Surgery,True,51,20,In Remission,80,,False,India
+sdv-id-QTTckj,61,Other,Lymphoma,Bilateral,2024-05-15,Stage III,Radiation,True,60,12,Active,87,,True,Canada
+sdv-id-AxLEfK,41,M,Melanoma,Right,2019-01-02,Stage II,Radiation,False,59,20,Active,45,BRAF Mutation,False,Canada
+sdv-id-yHQNUO,32,M,Melanoma,Right,2024-10-15,Stage I,Chemotherapy,True,59,5,In Remission,90,,False,Australia
+sdv-id-qGKBLV,72,M,Lymphoma,Bilateral,2023-05-03,Stage II,Radiation,True,60,8,Deceased,50,BRAF Mutation,False,USA
+sdv-id-PDAkIp,57,M,Retinoblastoma,Bilateral,2024-12-30,Stage I,Surgery,True,18,14,Active,91,BRAF Mutation,False,Brazil
+sdv-id-yKxYKT,72,Other,Retinoblastoma,Left,2019-01-02,Stage III,Surgery,True,56,4,Deceased,68,,True,France
+sdv-id-HYMtrf,1,F,Lymphoma,Bilateral,2021-12-20,Stage II,Radiation,True,67,11,Deceased,96,BRAF Mutation,False,Canada
+sdv-id-eHJLfg,67,Other,Lymphoma,Bilateral,2023-03-20,Stage I,Surgery,True,26,14,Deceased,98,BRAF Mutation,False,Canada
+sdv-id-cBfhyk,72,M,Retinoblastoma,Right,2022-08-26,Stage IV,Chemotherapy,True,22,7,Deceased,26,BRAF Mutation,True,UK
+sdv-id-UQwnYM,9,F,Melanoma,Bilateral,2023-11-01,Stage I,Surgery,False,2,7,Deceased,118,,True,India
+sdv-id-anaduH,18,Other,Melanoma,Right,2024-12-30,Stage I,Radiation,True,2,20,Deceased,41,,False,Germany
+sdv-id-TzDuAY,38,F,Melanoma,Left,2020-04-28,Stage II,Surgery,False,21,4,Deceased,74,,True,USA
+sdv-id-ZieqWH,72,F,Lymphoma,Left,2023-09-01,Stage I,Radiation,False,2,20,Active,76,,False,India
+sdv-id-ThaKxS,27,F,Melanoma,Left,2024-12-30,Stage III,Radiation,False,7,4,Active,90,BRAF Mutation,False,France
+sdv-id-wIyxIk,65,Other,Lymphoma,Right,2024-03-04,Stage I,Chemotherapy,True,50,7,Deceased,40,BRAF Mutation,True,South Africa
+sdv-id-wiKjKm,30,F,Lymphoma,Left,2019-09-08,Stage I,Radiation,True,7,4,In Remission,63,,True,USA
+sdv-id-bgtXGc,26,F,Lymphoma,Bilateral,2020-03-04,Stage III,Chemotherapy,False,54,12,Active,118,,True,Japan
+sdv-id-YjaQjs,37,Other,Retinoblastoma,Left,2020-11-11,Stage I,Chemotherapy,True,16,20,Active,101,,True,South Africa
+sdv-id-zoOOlw,70,M,Lymphoma,Right,2021-06-08,Stage II,Surgery,False,26,6,In Remission,75,,True,Canada
+sdv-id-VoibSd,1,Other,Lymphoma,Left,2022-05-23,Stage I,Radiation,False,29,8,In Remission,4,BRAF Mutation,False,UK
+sdv-id-wFCeuN,43,Other,Melanoma,Bilateral,2021-10-30,Stage IV,Chemotherapy,False,33,7,Deceased,58,BRAF Mutation,False,Australia
+sdv-id-sLtale,35,M,Lymphoma,Right,2019-10-23,Stage II,Radiation,True,14,13,Active,88,,False,Germany
+sdv-id-GOszsA,72,Other,Lymphoma,Bilateral,2023-11-20,Stage IV,Chemotherapy,True,6,4,Active,115,,False,South Africa
+sdv-id-vpmMLw,63,F,Melanoma,Left,2019-03-15,Stage II,Radiation,True,28,4,Active,76,,False,Germany
+sdv-id-LhRflc,72,M,Retinoblastoma,Left,2023-06-22,Stage II,Surgery,True,49,6,Deceased,23,,True,USA
+sdv-id-hhJFDl,10,F,Melanoma,Bilateral,2022-11-26,Stage IV,Radiation,True,11,4,Active,94,BRAF Mutation,True,Brazil
+sdv-id-udWWOr,66,F,Melanoma,Right,2024-03-11,Stage II,Surgery,False,20,11,Deceased,118,,True,USA
+sdv-id-HJAXOU,67,F,Lymphoma,Bilateral,2019-05-04,Stage II,Chemotherapy,True,42,16,Deceased,28,BRAF Mutation,False,USA
+sdv-id-yoLfFd,72,M,Lymphoma,Right,2022-12-11,Stage II,Chemotherapy,True,56,10,Deceased,74,BRAF Mutation,True,India
+sdv-id-faVpbg,26,M,Lymphoma,Left,2019-06-04,Stage III,Surgery,False,24,7,In Remission,1,BRAF Mutation,False,India
+sdv-id-waTwoF,44,Other,Retinoblastoma,Bilateral,2022-09-22,Stage II,Radiation,True,18,9,Active,120,,True,Brazil
+sdv-id-DFdfES,18,F,Melanoma,Bilateral,2020-11-08,Stage II,Surgery,True,10,20,Active,61,,False,Japan
+sdv-id-tPmgdu,43,Other,Retinoblastoma,Right,2024-05-30,Stage I,Radiation,True,41,11,Deceased,89,,True,India
+sdv-id-TErYLV,60,M,Melanoma,Bilateral,2023-09-02,Stage III,Surgery,False,56,19,In Remission,23,,True,UK
+sdv-id-LKHMQP,16,F,Melanoma,Right,2021-11-07,Stage III,Surgery,True,23,17,Active,64,,False,India
+sdv-id-qxhSNJ,16,Other,Melanoma,Bilateral,2019-04-08,Stage III,Chemotherapy,False,61,7,Deceased,93,,False,South Africa
+sdv-id-yKeQoT,72,Other,Melanoma,Left,2024-08-02,Stage I,Chemotherapy,True,15,20,Deceased,27,BRAF Mutation,False,Japan
+sdv-id-EJwotp,23,Other,Retinoblastoma,Right,2023-09-19,Stage III,Radiation,True,60,20,Deceased,119,,False,Germany
+sdv-id-QKdIrw,1,F,Lymphoma,Left,2020-09-24,Stage III,Radiation,True,4,15,Deceased,93,BRAF Mutation,False,USA
+sdv-id-oKcfTo,58,F,Melanoma,Left,2021-05-21,Stage I,Radiation,True,67,8,Deceased,43,BRAF Mutation,False,UK
+sdv-id-LgotOR,37,Other,Retinoblastoma,Bilateral,2019-01-02,Stage IV,Surgery,False,34,11,Deceased,116,,True,Japan
+sdv-id-reUICw,1,M,Melanoma,Bilateral,2019-10-05,Stage II,Radiation,False,60,5,Deceased,49,BRAF Mutation,False,Canada
+sdv-id-MXxNsN,70,Other,Retinoblastoma,Bilateral,2019-08-18,Stage IV,Chemotherapy,False,54,20,Deceased,68,,False,UK
+sdv-id-OwxTPC,44,Other,Retinoblastoma,Bilateral,2023-08-29,Stage IV,Surgery,False,23,4,Active,69,,False,UK
+sdv-id-sxBxRl,72,Other,Retinoblastoma,Bilateral,2021-01-24,Stage III,Radiation,False,51,20,Active,23,,False,USA
+sdv-id-VksqVm,7,F,Melanoma,Right,2023-10-18,Stage III,Chemotherapy,False,14,4,Deceased,66,BRAF Mutation,True,UK
+sdv-id-XIAoyZ,72,Other,Lymphoma,Left,2023-12-08,Stage III,Chemotherapy,True,51,6,In Remission,120,BRAF Mutation,False,France
+sdv-id-qKQdgp,71,Other,Lymphoma,Bilateral,2019-05-31,Stage I,Surgery,True,54,4,Deceased,48,,True,Canada
+sdv-id-ljGOgt,42,F,Lymphoma,Right,2023-10-20,Stage I,Surgery,True,62,14,Active,109,BRAF Mutation,True,USA
+sdv-id-fRIpNQ,24,M,Retinoblastoma,Right,2023-01-11,Stage III,Surgery,True,27,20,Active,104,,False,Canada
+sdv-id-qFwWaS,72,Other,Melanoma,Left,2019-07-06,Stage II,Surgery,True,2,5,Active,82,,True,Germany
+sdv-id-NItego,72,Other,Retinoblastoma,Right,2020-01-08,Stage I,Surgery,True,37,15,In Remission,1,BRAF Mutation,True,India
+sdv-id-GNwLRH,64,M,Retinoblastoma,Right,2022-06-27,Stage IV,Radiation,True,58,20,Deceased,14,,True,Canada
+sdv-id-fhnLAx,58,M,Retinoblastoma,Left,2021-09-06,Stage II,Radiation,False,12,4,In Remission,86,BRAF Mutation,True,France
+sdv-id-pxlKtq,21,M,Lymphoma,Bilateral,2023-12-25,Stage I,Surgery,True,57,8,Active,35,BRAF Mutation,False,India
+sdv-id-DteCot,59,F,Lymphoma,Right,2024-01-18,Stage I,Chemotherapy,False,22,20,Deceased,1,,False,UK
+sdv-id-hjxFaK,23,F,Melanoma,Left,2020-07-03,Stage IV,Chemotherapy,True,62,20,In Remission,43,BRAF Mutation,False,India
+sdv-id-YQBCCf,72,M,Melanoma,Right,2023-01-19,Stage I,Surgery,True,38,8,In Remission,27,BRAF Mutation,True,Germany
+sdv-id-WDRvGV,70,F,Melanoma,Bilateral,2022-06-29,Stage IV,Chemotherapy,False,56,20,In Remission,86,BRAF Mutation,False,Germany
+sdv-id-cEoIQa,3,M,Lymphoma,Bilateral,2020-02-07,Stage II,Surgery,True,16,7,In Remission,55,,True,South Africa
+sdv-id-OCovLe,44,F,Melanoma,Bilateral,2021-12-08,Stage I,Chemotherapy,False,19,18,In Remission,83,,True,Japan
+sdv-id-kAtLxa,59,F,Lymphoma,Right,2019-01-02,Stage III,Radiation,False,2,14,Deceased,99,,False,Japan
+sdv-id-TxYDyL,72,F,Retinoblastoma,Right,2022-07-25,Stage I,Chemotherapy,False,58,14,In Remission,53,BRAF Mutation,False,Germany
+sdv-id-SwljiG,17,M,Retinoblastoma,Bilateral,2024-10-18,Stage II,Radiation,True,67,4,Deceased,91,BRAF Mutation,False,UK
+sdv-id-uCyrJz,61,M,Retinoblastoma,Left,2020-08-23,Stage IV,Surgery,True,3,4,Active,116,BRAF Mutation,True,UK
+sdv-id-lEjpNb,65,Other,Melanoma,Right,2022-12-04,Stage III,Surgery,True,36,11,Active,118,,False,Australia
+sdv-id-LbnXln,42,F,Retinoblastoma,Bilateral,2024-04-12,Stage III,Radiation,True,20,11,In Remission,22,BRAF Mutation,False,Germany
+sdv-id-SUeAAY,70,M,Lymphoma,Bilateral,2020-01-31,Stage II,Chemotherapy,False,19,15,Active,51,,True,Japan
+sdv-id-KjkmYB,48,F,Melanoma,Right,2019-08-10,Stage III,Radiation,False,14,4,Active,44,,True,Brazil
+sdv-id-iUFTEo,68,Other,Lymphoma,Right,2023-05-19,Stage III,Chemotherapy,False,28,8,In Remission,119,BRAF Mutation,False,France
+sdv-id-QsyNkJ,72,M,Melanoma,Right,2024-01-07,Stage II,Chemotherapy,True,19,4,Active,43,BRAF Mutation,False,Germany
+sdv-id-xDVTLA,4,F,Retinoblastoma,Left,2024-04-16,Stage I,Radiation,False,27,17,In Remission,82,,False,South Africa
+sdv-id-zGnqRW,14,M,Retinoblastoma,Right,2023-02-15,Stage IV,Radiation,False,47,4,In Remission,73,BRAF Mutation,True,Japan
+sdv-id-fniAAY,52,M,Retinoblastoma,Right,2023-05-12,Stage I,Radiation,True,60,18,Deceased,112,,True,Brazil
+sdv-id-BMkLiM,72,Other,Melanoma,Left,2019-01-02,Stage I,Radiation,True,41,4,In Remission,57,,False,India
+sdv-id-gPaOXv,11,Other,Lymphoma,Bilateral,2022-11-26,Stage III,Chemotherapy,True,50,14,In Remission,95,BRAF Mutation,False,UK
+sdv-id-kCSKPD,72,M,Lymphoma,Right,2021-01-18,Stage III,Chemotherapy,True,66,11,Active,111,BRAF Mutation,False,Australia
+sdv-id-nwrFeT,66,F,Lymphoma,Right,2024-08-15,Stage II,Radiation,True,67,8,Active,84,,True,Australia
+sdv-id-bIUgvx,41,Other,Retinoblastoma,Bilateral,2019-07-31,Stage IV,Surgery,True,2,6,Active,32,BRAF Mutation,True,South Africa
+sdv-id-SJuswk,38,F,Melanoma,Left,2021-08-15,Stage I,Radiation,False,60,14,In Remission,85,,False,Canada
+sdv-id-ZOIGmj,28,F,Lymphoma,Bilateral,2023-09-15,Stage I,Surgery,False,5,9,In Remission,46,,False,France
+sdv-id-lQgdcM,66,Other,Retinoblastoma,Bilateral,2023-11-13,Stage I,Chemotherapy,True,12,20,In Remission,79,,False,Germany
+sdv-id-OwtKTr,25,Other,Lymphoma,Left,2024-08-20,Stage I,Surgery,False,63,4,Deceased,95,,False,India
+sdv-id-gHxxuz,31,F,Melanoma,Right,2020-03-23,Stage II,Surgery,True,23,14,Active,120,,True,France
+sdv-id-lYAyPG,24,M,Retinoblastoma,Right,2022-03-20,Stage IV,Chemotherapy,False,38,12,In Remission,88,BRAF Mutation,False,South Africa
+sdv-id-SuueKP,13,F,Melanoma,Bilateral,2019-09-02,Stage IV,Surgery,True,67,4,Active,101,,True,France
+sdv-id-YVmMTm,72,F,Retinoblastoma,Left,2020-09-09,Stage IV,Surgery,False,30,15,In Remission,112,BRAF Mutation,True,South Africa
+sdv-id-gUAJyP,72,Other,Melanoma,Bilateral,2021-10-01,Stage II,Surgery,True,56,20,Active,63,BRAF Mutation,False,Germany
+sdv-id-gMNyZt,72,F,Melanoma,Bilateral,2019-09-11,Stage II,Chemotherapy,True,64,7,Active,106,BRAF Mutation,False,South Africa
+sdv-id-AFAfWY,72,M,Retinoblastoma,Bilateral,2020-08-18,Stage II,Chemotherapy,False,51,20,Deceased,8,,True,India
+sdv-id-PvitBd,72,M,Melanoma,Bilateral,2019-12-27,Stage II,Surgery,True,16,13,Active,112,,True,France
+sdv-id-WPYnah,72,Other,Retinoblastoma,Right,2024-12-30,Stage I,Chemotherapy,True,62,5,Active,23,,False,France
+sdv-id-IvqDVe,72,F,Melanoma,Left,2023-04-10,Stage I,Chemotherapy,False,23,20,Deceased,37,,True,Canada
+sdv-id-JgShTl,72,Other,Melanoma,Right,2019-06-20,Stage III,Surgery,False,51,12,In Remission,29,BRAF Mutation,True,UK
+sdv-id-ICPtPX,72,M,Melanoma,Left,2023-06-22,Stage II,Radiation,True,40,9,Deceased,82,BRAF Mutation,True,Germany
+sdv-id-eqGJoW,50,Other,Lymphoma,Left,2020-05-06,Stage II,Radiation,True,30,4,Active,52,BRAF Mutation,True,Brazil
+sdv-id-motxdY,29,M,Retinoblastoma,Right,2024-01-21,Stage II,Chemotherapy,True,40,4,Active,80,BRAF Mutation,False,Brazil
+sdv-id-BhHmoY,25,M,Lymphoma,Bilateral,2024-03-13,Stage II,Surgery,False,66,4,Deceased,23,BRAF Mutation,True,Australia
+sdv-id-viYZIl,29,M,Melanoma,Bilateral,2019-04-15,Stage III,Surgery,False,26,8,In Remission,120,BRAF Mutation,False,Japan
+sdv-id-QpRGWQ,68,F,Melanoma,Right,2023-04-02,Stage IV,Surgery,False,30,4,Deceased,113,,True,Australia
+sdv-id-ZAXXYl,28,F,Retinoblastoma,Left,2022-11-30,Stage IV,Surgery,False,22,8,Deceased,48,,False,Germany
+sdv-id-yudbzk,1,Other,Melanoma,Bilateral,2024-12-30,Stage IV,Surgery,False,67,13,In Remission,86,,True,Brazil
+sdv-id-ABjgNo,62,M,Melanoma,Bilateral,2020-08-01,Stage II,Surgery,False,47,8,In Remission,31,,False,India
+sdv-id-qGnARE,1,F,Retinoblastoma,Bilateral,2023-08-29,Stage II,Chemotherapy,True,50,12,In Remission,48,BRAF Mutation,True,Australia
+sdv-id-qivZYl,72,M,Melanoma,Left,2020-10-15,Stage II,Radiation,True,53,6,In Remission,69,BRAF Mutation,False,Brazil
+sdv-id-tBhauz,28,F,Lymphoma,Bilateral,2020-02-03,Stage IV,Chemotherapy,False,58,4,Active,59,BRAF Mutation,False,India
+sdv-id-GcVyua,72,M,Melanoma,Bilateral,2019-04-05,Stage I,Chemotherapy,True,58,4,Deceased,91,,False,UK
+sdv-id-KmGRSH,66,F,Retinoblastoma,Left,2024-12-30,Stage III,Chemotherapy,True,3,4,Active,26,,True,India
+sdv-id-DKTwdZ,52,F,Melanoma,Bilateral,2024-12-30,Stage III,Chemotherapy,False,29,4,Deceased,63,,False,Germany
+sdv-id-rUbRRz,72,Other,Lymphoma,Right,2022-12-04,Stage III,Surgery,False,66,5,Active,1,,False,Brazil
+sdv-id-yKXmnQ,72,Other,Melanoma,Bilateral,2022-11-10,Stage I,Chemotherapy,True,2,4,Deceased,75,BRAF Mutation,False,Germany
+sdv-id-eWlyRj,58,F,Lymphoma,Left,2024-08-01,Stage II,Chemotherapy,True,32,5,Deceased,61,BRAF Mutation,False,South Africa
+sdv-id-tGXyEL,72,Other,Lymphoma,Right,2019-11-30,Stage III,Surgery,False,2,6,Active,51,,True,Australia
+sdv-id-JCQuIN,72,M,Lymphoma,Left,2021-09-22,Stage III,Chemotherapy,True,2,20,In Remission,52,BRAF Mutation,False,USA
+sdv-id-tqyqru,52,F,Lymphoma,Bilateral,2024-12-30,Stage III,Surgery,False,29,6,Deceased,120,,True,South Africa
+sdv-id-ZeVHcC,22,M,Retinoblastoma,Bilateral,2023-07-30,Stage II,Surgery,True,29,4,Active,115,,True,Germany
+sdv-id-NXsuta,72,F,Melanoma,Right,2023-10-21,Stage II,Radiation,False,46,9,Active,80,,False,UK
+sdv-id-KsBzTC,26,Other,Lymphoma,Left,2020-01-02,Stage I,Surgery,True,43,6,In Remission,120,BRAF Mutation,True,South Africa
+sdv-id-mLfrWx,29,F,Melanoma,Left,2019-01-12,Stage II,Chemotherapy,False,16,10,In Remission,103,BRAF Mutation,True,Canada
+sdv-id-OqeaQx,15,Other,Retinoblastoma,Bilateral,2019-11-03,Stage I,Chemotherapy,True,14,7,Deceased,110,BRAF Mutation,True,Canada
+sdv-id-aGDnbE,48,Other,Melanoma,Right,2024-05-02,Stage II,Chemotherapy,True,26,5,Deceased,35,,False,USA
+sdv-id-zNCLeu,51,M,Melanoma,Bilateral,2023-04-07,Stage III,Radiation,False,47,4,Active,116,BRAF Mutation,False,UK
+sdv-id-OcnJhb,72,Other,Retinoblastoma,Left,2019-01-02,Stage I,Chemotherapy,False,23,16,Deceased,7,BRAF Mutation,True,Australia
+sdv-id-onVSHJ,41,F,Melanoma,Right,2022-01-14,Stage I,Radiation,True,38,14,Deceased,31,BRAF Mutation,True,India
+sdv-id-KylhPz,72,F,Retinoblastoma,Bilateral,2024-05-28,Stage IV,Chemotherapy,True,52,17,Deceased,93,BRAF Mutation,False,Brazil
+sdv-id-jiVmhi,69,Other,Retinoblastoma,Left,2021-06-20,Stage IV,Surgery,True,59,4,Active,65,BRAF Mutation,True,USA
+sdv-id-qYcEDl,45,F,Melanoma,Right,2022-04-06,Stage II,Radiation,False,20,12,Active,34,BRAF Mutation,False,Canada
+sdv-id-UAytcO,31,M,Lymphoma,Left,2023-09-22,Stage II,Surgery,False,64,16,Deceased,120,,False,Brazil
+sdv-id-rpuHMd,1,M,Retinoblastoma,Right,2024-04-14,Stage I,Radiation,True,2,8,Deceased,27,BRAF Mutation,True,South Africa
+sdv-id-pOOQTI,52,F,Lymphoma,Left,2024-08-11,Stage II,Radiation,False,20,12,Deceased,120,,False,France
+sdv-id-KYWzZC,56,M,Retinoblastoma,Left,2022-02-02,Stage III,Surgery,False,29,14,Active,75,BRAF Mutation,False,India
+sdv-id-PETeZc,30,M,Melanoma,Left,2021-11-17,Stage I,Surgery,False,28,4,Active,120,BRAF Mutation,False,USA
+sdv-id-vRpiYI,23,F,Melanoma,Bilateral,2019-07-08,Stage I,Chemotherapy,True,18,9,Active,65,,True,France
+sdv-id-xqZyVD,43,Other,Melanoma,Left,2024-10-16,Stage III,Chemotherapy,True,30,12,Active,106,BRAF Mutation,True,Brazil
+sdv-id-etLiVq,72,F,Lymphoma,Right,2024-06-08,Stage IV,Surgery,False,9,13,Deceased,100,BRAF Mutation,False,France
+sdv-id-kqdmga,12,M,Retinoblastoma,Bilateral,2022-10-22,Stage III,Surgery,False,53,4,Deceased,28,,True,USA
+sdv-id-ZqfYLJ,61,Other,Lymphoma,Right,2019-01-20,Stage I,Chemotherapy,True,61,9,Deceased,19,,True,France
+sdv-id-rywHfC,16,F,Lymphoma,Left,2024-06-09,Stage II,Radiation,False,2,4,In Remission,50,BRAF Mutation,True,India
+sdv-id-RcscdN,72,M,Retinoblastoma,Left,2019-05-25,Stage III,Surgery,False,43,11,Active,72,BRAF Mutation,True,Germany
+sdv-id-XBFDHl,27,M,Melanoma,Bilateral,2021-02-09,Stage II,Surgery,True,21,10,Active,107,,True,USA
+sdv-id-VANEFu,60,F,Retinoblastoma,Bilateral,2021-06-21,Stage III,Surgery,False,17,14,In Remission,119,BRAF Mutation,True,India
+sdv-id-oPWgsq,72,Other,Melanoma,Bilateral,2024-10-27,Stage I,Radiation,True,50,19,Active,113,,False,Brazil
+sdv-id-DhUtbG,43,Other,Retinoblastoma,Bilateral,2021-10-16,Stage I,Radiation,True,58,4,Active,120,,True,France
+sdv-id-ZvaYPg,36,M,Lymphoma,Right,2020-03-30,Stage I,Radiation,True,12,4,Deceased,112,,True,Australia
+sdv-id-nwZfRa,63,M,Retinoblastoma,Bilateral,2019-10-14,Stage IV,Chemotherapy,False,56,7,Deceased,116,BRAF Mutation,True,Australia
+sdv-id-qPpepE,33,M,Lymphoma,Left,2024-12-30,Stage IV,Radiation,False,32,7,Deceased,76,BRAF Mutation,False,UK
+sdv-id-dTobpy,37,F,Retinoblastoma,Bilateral,2023-09-13,Stage II,Chemotherapy,True,54,10,Deceased,26,BRAF Mutation,True,Japan
+sdv-id-SMHPGn,38,F,Melanoma,Bilateral,2024-12-13,Stage III,Radiation,True,14,4,In Remission,2,BRAF Mutation,True,UK
+sdv-id-DHvPhF,72,Other,Retinoblastoma,Right,2021-06-07,Stage III,Surgery,False,18,20,Active,120,,True,France
+sdv-id-JVwXdJ,56,Other,Melanoma,Bilateral,2023-06-26,Stage II,Chemotherapy,False,50,8,In Remission,52,,True,UK
+sdv-id-bDmszt,9,Other,Lymphoma,Bilateral,2024-05-27,Stage II,Radiation,False,32,4,Deceased,79,BRAF Mutation,False,South Africa
+sdv-id-TzlmFV,4,F,Lymphoma,Bilateral,2023-07-11,Stage II,Chemotherapy,False,28,5,Active,111,,True,UK
+sdv-id-ayklbO,72,F,Lymphoma,Right,2023-05-13,Stage II,Surgery,True,8,20,Active,120,,False,USA
+sdv-id-OwFYPz,10,Other,Lymphoma,Left,2024-05-05,Stage I,Surgery,False,53,10,Deceased,113,BRAF Mutation,False,Brazil
+sdv-id-IrFZaj,61,M,Melanoma,Bilateral,2021-04-20,Stage III,Radiation,False,38,4,Active,11,BRAF Mutation,False,France
+sdv-id-URpfkE,28,F,Lymphoma,Bilateral,2024-05-24,Stage I,Radiation,True,39,10,Deceased,119,,True,Australia
+sdv-id-RTGlVz,40,M,Melanoma,Left,2023-10-29,Stage I,Radiation,True,51,10,In Remission,79,BRAF Mutation,False,Canada
+sdv-id-agmMVp,29,M,Melanoma,Left,2021-08-23,Stage III,Surgery,True,33,5,Active,120,BRAF Mutation,False,Canada
+sdv-id-JtVOrq,70,F,Retinoblastoma,Right,2022-12-10,Stage I,Radiation,False,25,5,In Remission,77,BRAF Mutation,False,Canada
+sdv-id-svSBZs,56,F,Melanoma,Right,2023-04-25,Stage II,Radiation,False,2,19,Deceased,116,,False,Australia
+sdv-id-tLCewq,1,F,Melanoma,Bilateral,2020-11-02,Stage I,Radiation,True,4,5,In Remission,120,BRAF Mutation,True,UK
+sdv-id-USFzim,58,M,Lymphoma,Left,2023-04-14,Stage II,Chemotherapy,False,26,8,Active,73,,False,India
+sdv-id-GOJNWb,72,Other,Melanoma,Left,2023-12-02,Stage IV,Radiation,False,31,10,Active,17,,False,India
+sdv-id-mrwDHe,41,Other,Retinoblastoma,Left,2024-08-16,Stage III,Radiation,False,2,4,Deceased,77,,True,South Africa
+sdv-id-nUjSQF,71,M,Melanoma,Left,2023-12-10,Stage III,Surgery,False,32,12,Deceased,33,BRAF Mutation,False,Germany
+sdv-id-CypJdT,68,M,Lymphoma,Left,2023-10-22,Stage I,Surgery,True,54,8,Active,40,BRAF Mutation,True,France
+sdv-id-dhTvSe,1,F,Retinoblastoma,Bilateral,2023-03-28,Stage III,Surgery,True,50,4,Active,16,,True,South Africa
+sdv-id-ObSNEN,30,Other,Lymphoma,Left,2019-08-25,Stage I,Surgery,True,37,20,Deceased,35,BRAF Mutation,False,UK
+sdv-id-xrRlSE,10,F,Lymphoma,Right,2024-05-18,Stage I,Radiation,False,60,7,Active,114,BRAF Mutation,True,Australia
+sdv-id-TsVEVS,35,M,Lymphoma,Right,2020-07-11,Stage II,Surgery,False,8,11,Deceased,57,BRAF Mutation,True,USA
+sdv-id-fDQGpB,72,M,Melanoma,Left,2019-11-02,Stage II,Chemotherapy,False,53,14,Deceased,101,,True,Australia
+sdv-id-EUEmrd,26,M,Retinoblastoma,Bilateral,2021-10-17,Stage I,Chemotherapy,False,35,15,Active,73,BRAF Mutation,False,France
+sdv-id-OBITXQ,62,Other,Melanoma,Left,2019-01-02,Stage II,Radiation,True,34,4,Active,22,BRAF Mutation,True,Australia
+sdv-id-HBjCXz,30,M,Lymphoma,Right,2023-05-27,Stage II,Radiation,False,67,8,In Remission,103,,False,South Africa
+sdv-id-GIVylh,1,Other,Retinoblastoma,Left,2019-07-07,Stage II,Surgery,True,64,11,Active,74,BRAF Mutation,False,Japan
+sdv-id-nxmkNE,33,F,Retinoblastoma,Right,2022-02-10,Stage II,Surgery,True,35,12,In Remission,79,BRAF Mutation,False,India
+sdv-id-PtAXLV,54,F,Melanoma,Left,2024-03-13,Stage IV,Chemotherapy,True,24,4,In Remission,120,,False,Germany
+sdv-id-heXJpa,41,Other,Melanoma,Right,2022-03-10,Stage IV,Surgery,False,31,17,Deceased,92,,False,Japan
+sdv-id-whJkYy,70,Other,Lymphoma,Bilateral,2023-12-26,Stage III,Radiation,True,52,12,Deceased,38,BRAF Mutation,False,USA
+sdv-id-iwYjqU,32,M,Retinoblastoma,Left,2023-11-18,Stage I,Radiation,False,26,4,In Remission,101,,False,France
+sdv-id-GMCLaY,72,Other,Melanoma,Right,2019-06-19,Stage II,Surgery,True,26,4,In Remission,49,,True,Australia
+sdv-id-AhZjzL,11,Other,Melanoma,Left,2019-01-02,Stage II,Radiation,False,60,18,In Remission,74,BRAF Mutation,False,France
+sdv-id-sFAFnk,72,M,Retinoblastoma,Bilateral,2020-12-08,Stage III,Radiation,False,56,4,In Remission,47,,True,South Africa
+sdv-id-hfpVpx,44,Other,Lymphoma,Right,2023-09-18,Stage I,Chemotherapy,True,56,4,Active,111,,False,Australia
+sdv-id-ZuknUC,64,M,Lymphoma,Left,2023-10-15,Stage I,Chemotherapy,True,13,15,Active,56,BRAF Mutation,True,Brazil
+sdv-id-Ikuxup,72,Other,Retinoblastoma,Bilateral,2024-01-31,Stage IV,Chemotherapy,False,64,20,Active,56,,True,India
+sdv-id-gejhPe,56,F,Retinoblastoma,Bilateral,2023-01-08,Stage III,Surgery,True,42,10,In Remission,30,BRAF Mutation,False,Germany
+sdv-id-kgbmhk,1,M,Lymphoma,Left,2024-12-30,Stage IV,Surgery,True,2,12,In Remission,113,,True,Germany
+sdv-id-LLtKRv,54,F,Lymphoma,Bilateral,2022-04-16,Stage II,Chemotherapy,True,59,10,Deceased,105,,True,USA
+sdv-id-USbesm,45,Other,Melanoma,Left,2023-04-27,Stage III,Radiation,True,2,7,Active,101,BRAF Mutation,False,South Africa
+sdv-id-pOTuqi,11,Other,Lymphoma,Bilateral,2019-01-02,Stage I,Radiation,True,61,20,Deceased,87,BRAF Mutation,True,Japan
+sdv-id-WQygPn,29,M,Lymphoma,Right,2022-11-25,Stage IV,Radiation,False,54,4,In Remission,92,,False,Japan
+sdv-id-nSbJHC,12,F,Lymphoma,Bilateral,2023-05-12,Stage IV,Chemotherapy,False,27,13,In Remission,60,BRAF Mutation,True,South Africa
+sdv-id-oAPBfM,46,Other,Retinoblastoma,Bilateral,2023-05-11,Stage I,Radiation,False,2,7,Deceased,82,BRAF Mutation,False,Canada
+sdv-id-okBRmq,22,Other,Retinoblastoma,Left,2019-07-31,Stage I,Radiation,False,53,20,Deceased,104,,True,South Africa
+sdv-id-MBRcpP,6,F,Retinoblastoma,Left,2024-01-03,Stage I,Surgery,False,19,4,In Remission,57,,True,India
+sdv-id-IoZrjq,63,M,Melanoma,Left,2021-03-16,Stage II,Radiation,False,67,5,In Remission,106,,False,UK
+sdv-id-heppXO,72,F,Melanoma,Left,2019-01-29,Stage III,Surgery,False,23,19,Deceased,90,BRAF Mutation,True,South Africa
+sdv-id-SHuOLU,15,Other,Retinoblastoma,Bilateral,2023-11-29,Stage I,Chemotherapy,True,2,4,Deceased,62,BRAF Mutation,True,Japan
+sdv-id-UoLdiP,55,M,Retinoblastoma,Left,2020-06-26,Stage III,Chemotherapy,False,53,20,Deceased,47,BRAF Mutation,False,India
+sdv-id-PHaiLm,9,Other,Retinoblastoma,Bilateral,2023-02-19,Stage II,Radiation,True,56,17,In Remission,116,,False,Brazil
+sdv-id-yTSqAL,72,M,Retinoblastoma,Right,2019-01-02,Stage II,Surgery,True,53,20,Deceased,104,BRAF Mutation,False,France
+sdv-id-RZnWOu,29,F,Retinoblastoma,Left,2020-07-19,Stage IV,Surgery,True,67,12,Deceased,40,,True,Germany
+sdv-id-wQlOmL,47,F,Lymphoma,Bilateral,2019-11-03,Stage I,Chemotherapy,False,27,4,In Remission,71,,True,USA
+sdv-id-xhntDG,72,M,Retinoblastoma,Left,2020-03-04,Stage II,Surgery,True,26,14,Active,86,BRAF Mutation,False,France
+sdv-id-BvZufo,63,M,Melanoma,Left,2021-10-16,Stage I,Radiation,False,19,4,In Remission,109,BRAF Mutation,False,UK
+sdv-id-mVvyox,72,M,Lymphoma,Right,2024-05-03,Stage I,Chemotherapy,True,50,4,Active,63,BRAF Mutation,True,USA
+sdv-id-SiboDT,1,F,Lymphoma,Bilateral,2019-07-23,Stage I,Surgery,False,2,20,Active,58,,False,France
+sdv-id-EOcVEK,45,M,Retinoblastoma,Left,2023-07-26,Stage III,Radiation,False,25,4,Active,58,,False,South Africa
+sdv-id-EHcBHt,40,Other,Melanoma,Right,2020-04-05,Stage II,Surgery,True,32,4,Deceased,120,BRAF Mutation,False,France
+sdv-id-xQtCvC,32,Other,Melanoma,Left,2021-09-16,Stage IV,Radiation,False,59,15,In Remission,17,,True,USA
+sdv-id-yCqmZA,1,Other,Lymphoma,Left,2022-05-21,Stage III,Surgery,False,42,15,In Remission,73,BRAF Mutation,True,Brazil
+sdv-id-foxLPj,72,Other,Retinoblastoma,Bilateral,2019-01-02,Stage I,Surgery,False,15,16,In Remission,120,,False,USA
+sdv-id-NnPLOC,45,Other,Retinoblastoma,Right,2024-06-05,Stage II,Surgery,True,2,4,Deceased,35,,True,India
+sdv-id-VcUmci,59,Other,Retinoblastoma,Bilateral,2021-10-20,Stage I,Chemotherapy,False,7,9,Deceased,1,,False,Brazil
+sdv-id-BuNDIp,67,F,Retinoblastoma,Right,2021-03-20,Stage III,Radiation,True,64,20,Deceased,114,,False,Brazil
+sdv-id-LtLFAJ,62,F,Retinoblastoma,Right,2019-01-02,Stage II,Chemotherapy,True,54,6,Active,55,BRAF Mutation,True,USA
+sdv-id-kANWKu,39,F,Retinoblastoma,Bilateral,2024-07-27,Stage IV,Chemotherapy,False,18,4,Active,44,,False,Canada
+sdv-id-fRYCjE,9,M,Lymphoma,Right,2022-05-03,Stage III,Surgery,True,10,20,Active,102,,True,South Africa
+sdv-id-Huwkan,1,Other,Retinoblastoma,Right,2022-02-07,Stage III,Radiation,True,54,7,In Remission,67,BRAF Mutation,True,USA
+sdv-id-pcaowN,72,Other,Melanoma,Bilateral,2023-03-11,Stage I,Chemotherapy,True,52,7,Deceased,67,,True,India
+sdv-id-PzvpKX,13,Other,Lymphoma,Left,2024-12-30,Stage IV,Chemotherapy,True,25,8,Deceased,19,BRAF Mutation,True,India
+sdv-id-fJEdGG,39,F,Lymphoma,Bilateral,2022-04-13,Stage III,Radiation,False,51,20,Active,18,,True,Germany
+sdv-id-pnFBcU,1,F,Melanoma,Left,2024-06-24,Stage III,Radiation,True,2,18,Deceased,5,BRAF Mutation,False,Brazil
+sdv-id-SVhWlM,70,M,Retinoblastoma,Bilateral,2020-12-26,Stage II,Chemotherapy,False,20,13,In Remission,120,BRAF Mutation,True,Japan
+sdv-id-chQmrk,1,F,Retinoblastoma,Right,2024-11-16,Stage II,Radiation,True,15,19,Active,51,BRAF Mutation,True,Australia
+sdv-id-SaCLmC,35,F,Melanoma,Left,2024-06-27,Stage I,Chemotherapy,True,2,4,Deceased,120,,True,India
+sdv-id-ODprnW,47,M,Retinoblastoma,Right,2020-02-15,Stage IV,Chemotherapy,True,53,10,In Remission,96,BRAF Mutation,False,USA
+sdv-id-FdqscM,72,M,Melanoma,Bilateral,2022-11-06,Stage II,Chemotherapy,False,16,7,Deceased,108,BRAF Mutation,True,USA
+sdv-id-DupSJq,41,Other,Melanoma,Left,2020-02-09,Stage II,Surgery,True,2,4,Deceased,79,,True,USA
+sdv-id-cccIUH,72,Other,Retinoblastoma,Left,2020-01-21,Stage II,Surgery,True,33,18,In Remission,93,BRAF Mutation,False,India
+sdv-id-EzzNnz,53,F,Lymphoma,Left,2019-10-02,Stage III,Radiation,False,53,14,Deceased,105,,True,South Africa
+sdv-id-heJfPv,72,Other,Lymphoma,Right,2023-11-16,Stage II,Chemotherapy,False,29,11,Active,82,BRAF Mutation,False,Japan
+sdv-id-RfRZGv,20,M,Lymphoma,Right,2022-10-01,Stage III,Chemotherapy,False,51,20,Deceased,98,BRAF Mutation,False,Brazil
+sdv-id-fmOqTl,72,F,Melanoma,Bilateral,2023-12-25,Stage IV,Radiation,True,38,4,Deceased,69,BRAF Mutation,True,India
+sdv-id-KRpRmV,9,Other,Retinoblastoma,Right,2021-01-27,Stage III,Chemotherapy,False,2,20,In Remission,100,BRAF Mutation,True,Brazil
+sdv-id-VvBMHF,41,M,Melanoma,Left,2024-03-14,Stage IV,Radiation,False,2,6,In Remission,70,BRAF Mutation,False,Australia
+sdv-id-FiYNYi,67,Other,Lymphoma,Right,2020-08-25,Stage III,Surgery,True,14,11,Active,9,BRAF Mutation,False,USA
+sdv-id-kDZuvb,67,M,Retinoblastoma,Bilateral,2022-10-11,Stage III,Chemotherapy,False,61,4,Deceased,59,,True,UK
+sdv-id-sXpAid,18,M,Melanoma,Right,2020-02-28,Stage I,Surgery,False,23,16,In Remission,110,,False,Canada
+sdv-id-CxSFzk,33,Other,Retinoblastoma,Left,2021-03-21,Stage III,Chemotherapy,True,3,4,In Remission,1,BRAF Mutation,True,South Africa
+sdv-id-TTnkEr,47,F,Lymphoma,Left,2022-09-19,Stage II,Surgery,False,11,7,In Remission,104,,True,USA
+sdv-id-kONSmn,70,Other,Retinoblastoma,Right,2022-01-01,Stage IV,Chemotherapy,True,3,7,Deceased,58,BRAF Mutation,False,Canada
+sdv-id-gPWXoS,41,Other,Lymphoma,Bilateral,2019-11-28,Stage II,Radiation,True,43,8,Active,91,,True,India
+sdv-id-ilTSyf,11,Other,Retinoblastoma,Left,2019-03-12,Stage III,Radiation,True,22,14,Deceased,84,BRAF Mutation,True,South Africa
+sdv-id-BwFExW,62,M,Lymphoma,Left,2020-08-12,Stage I,Chemotherapy,True,55,4,Active,42,,False,Germany
+sdv-id-YXetLQ,72,M,Melanoma,Bilateral,2022-09-24,Stage II,Radiation,True,25,11,In Remission,98,BRAF Mutation,False,Germany
+sdv-id-wKMXob,50,F,Melanoma,Left,2022-11-16,Stage II,Surgery,True,61,8,In Remission,95,BRAF Mutation,True,Canada
+sdv-id-ahMlkQ,1,Other,Retinoblastoma,Left,2024-11-01,Stage III,Surgery,True,55,4,Active,69,,False,USA
+sdv-id-YodiFU,60,Other,Melanoma,Left,2020-09-05,Stage III,Chemotherapy,True,56,6,In Remission,86,,False,South Africa
+sdv-id-PQzjfG,72,M,Retinoblastoma,Left,2019-12-16,Stage I,Radiation,False,27,4,In Remission,67,,False,Canada
+sdv-id-KKhdoB,38,M,Melanoma,Left,2019-01-10,Stage I,Surgery,False,14,20,Active,68,,False,USA
+sdv-id-qfTJsO,34,Other,Retinoblastoma,Bilateral,2023-08-11,Stage II,Surgery,True,51,10,Deceased,39,,True,Japan
+sdv-id-BQbsyE,28,Other,Retinoblastoma,Bilateral,2021-01-26,Stage II,Surgery,True,22,10,In Remission,112,,False,Australia
+sdv-id-vKYGwW,65,Other,Lymphoma,Left,2021-02-10,Stage II,Radiation,True,26,17,Deceased,120,,True,Japan
+sdv-id-SITIuE,62,F,Lymphoma,Right,2022-03-29,Stage I,Surgery,True,54,4,Deceased,65,BRAF Mutation,False,USA
+sdv-id-pFGbIE,1,Other,Lymphoma,Bilateral,2019-02-28,Stage IV,Surgery,True,50,4,Deceased,85,,False,France
+sdv-id-WHrCBa,65,Other,Lymphoma,Right,2019-05-21,Stage II,Radiation,False,55,19,Active,91,,True,Germany
+sdv-id-iTXLEq,52,M,Retinoblastoma,Right,2024-03-10,Stage I,Radiation,True,2,17,Active,54,,False,India
+sdv-id-popueg,72,F,Melanoma,Bilateral,2020-03-08,Stage IV,Chemotherapy,False,61,18,Deceased,99,BRAF Mutation,True,Germany
+sdv-id-ZXWhsQ,62,F,Melanoma,Left,2020-07-22,Stage III,Surgery,True,61,16,Active,52,,False,France
+sdv-id-XqviYF,28,Other,Lymphoma,Right,2019-12-09,Stage II,Radiation,True,54,15,Deceased,61,BRAF Mutation,False,Germany
+sdv-id-yvJWhl,72,Other,Melanoma,Bilateral,2024-03-18,Stage IV,Radiation,False,2,17,Deceased,75,,False,Canada
+sdv-id-OWCpAm,1,F,Lymphoma,Left,2023-10-12,Stage III,Chemotherapy,False,67,9,In Remission,92,BRAF Mutation,False,Australia
+sdv-id-UeAizX,55,Other,Retinoblastoma,Left,2019-12-03,Stage I,Chemotherapy,True,38,4,Deceased,99,BRAF Mutation,True,Japan
+sdv-id-aScWqr,64,Other,Retinoblastoma,Left,2019-05-25,Stage II,Surgery,False,38,15,Active,24,,False,South Africa
+sdv-id-lNKUbi,2,F,Lymphoma,Left,2019-11-11,Stage II,Chemotherapy,True,41,8,Deceased,64,BRAF Mutation,False,Germany
+sdv-id-fQsnzK,31,F,Lymphoma,Right,2023-10-07,Stage II,Radiation,True,21,15,Deceased,50,BRAF Mutation,False,Japan
+sdv-id-gpoJNZ,18,Other,Lymphoma,Left,2022-02-04,Stage III,Chemotherapy,True,56,4,Active,74,,False,Germany
+sdv-id-uuPGwv,42,Other,Retinoblastoma,Left,2022-08-12,Stage IV,Surgery,True,4,4,In Remission,120,BRAF Mutation,True,Germany
+sdv-id-DKKzZe,7,M,Lymphoma,Left,2023-06-22,Stage I,Chemotherapy,False,11,4,Active,37,,True,USA
+sdv-id-OIPLgB,10,F,Retinoblastoma,Bilateral,2023-11-27,Stage IV,Chemotherapy,False,58,7,Active,120,,False,Japan
+sdv-id-KIFuHc,1,Other,Melanoma,Right,2024-12-30,Stage II,Radiation,False,60,19,Deceased,120,,True,Australia
+sdv-id-EkTZqU,29,M,Melanoma,Right,2024-10-22,Stage III,Surgery,False,27,13,Active,108,BRAF Mutation,False,UK
+sdv-id-WOTINz,2,F,Melanoma,Left,2020-11-24,Stage I,Surgery,True,42,4,Deceased,120,BRAF Mutation,True,France
+sdv-id-HtlgFp,26,F,Retinoblastoma,Right,2024-01-19,Stage II,Radiation,False,34,20,In Remission,120,BRAF Mutation,True,India
+sdv-id-AQBubE,12,F,Retinoblastoma,Bilateral,2019-04-11,Stage II,Surgery,False,2,7,Deceased,109,BRAF Mutation,False,Canada
+sdv-id-wzpNrj,69,F,Retinoblastoma,Bilateral,2019-05-10,Stage IV,Chemotherapy,False,2,5,Deceased,69,,True,France
+sdv-id-MNjoJV,60,F,Lymphoma,Bilateral,2019-01-02,Stage III,Surgery,False,15,15,Deceased,49,BRAF Mutation,True,Australia
+sdv-id-ZHNJQc,71,M,Lymphoma,Left,2020-09-21,Stage I,Surgery,True,17,7,In Remission,83,BRAF Mutation,False,UK
+sdv-id-mkarPJ,32,Other,Retinoblastoma,Right,2022-10-13,Stage III,Radiation,True,43,9,In Remission,62,,False,UK
+sdv-id-zXFjlz,72,M,Retinoblastoma,Right,2022-04-29,Stage II,Surgery,True,8,7,In Remission,53,BRAF Mutation,False,South Africa
+sdv-id-eBlboI,72,Other,Retinoblastoma,Left,2023-11-16,Stage I,Radiation,False,22,8,Active,90,BRAF Mutation,False,UK
+sdv-id-ZCAaDb,55,Other,Lymphoma,Bilateral,2024-02-15,Stage IV,Radiation,True,34,7,Deceased,67,BRAF Mutation,False,USA
+sdv-id-FhCxcP,63,M,Lymphoma,Bilateral,2020-03-19,Stage II,Chemotherapy,True,38,14,In Remission,65,BRAF Mutation,False,South Africa
+sdv-id-RzFIOk,62,F,Retinoblastoma,Bilateral,2022-08-24,Stage IV,Chemotherapy,False,38,18,Active,76,BRAF Mutation,True,Australia
+sdv-id-IPSUyN,64,M,Lymphoma,Bilateral,2021-11-26,Stage III,Chemotherapy,False,26,13,Deceased,69,,False,UK
+sdv-id-ichBHd,42,F,Retinoblastoma,Left,2023-01-28,Stage II,Radiation,True,7,14,Deceased,65,BRAF Mutation,True,Canada
+sdv-id-JpjUQH,19,F,Retinoblastoma,Left,2022-07-02,Stage III,Chemotherapy,False,32,8,Deceased,60,,True,Australia
+sdv-id-DJzKna,13,M,Retinoblastoma,Bilateral,2019-12-30,Stage IV,Radiation,False,67,4,Active,100,,True,Germany
+sdv-id-JnAnGx,72,F,Retinoblastoma,Bilateral,2019-11-19,Stage IV,Radiation,False,50,7,Active,13,,False,India
+sdv-id-iglvdT,72,M,Melanoma,Left,2024-06-05,Stage II,Chemotherapy,True,50,4,Active,36,,False,South Africa
+sdv-id-zjnfkO,72,M,Retinoblastoma,Right,2022-05-09,Stage II,Radiation,False,55,14,Deceased,27,BRAF Mutation,False,Canada
+sdv-id-ZDiRhT,59,F,Retinoblastoma,Left,2019-01-02,Stage II,Radiation,False,38,7,Active,91,BRAF Mutation,True,Japan
+sdv-id-GGrJWL,65,M,Retinoblastoma,Right,2019-03-05,Stage II,Surgery,True,66,12,In Remission,44,BRAF Mutation,False,Canada
+sdv-id-cNcwWf,18,F,Retinoblastoma,Left,2023-12-14,Stage I,Chemotherapy,True,30,14,Deceased,65,,False,France
+sdv-id-KHOrNr,67,Other,Retinoblastoma,Right,2019-10-01,Stage III,Surgery,False,23,15,Active,69,,False,India
+sdv-id-gMpkKC,31,F,Retinoblastoma,Right,2023-07-27,Stage III,Surgery,True,19,8,Active,24,,True,Canada
+sdv-id-wYzPPE,46,Other,Lymphoma,Right,2024-02-09,Stage I,Chemotherapy,False,42,15,Deceased,33,BRAF Mutation,True,South Africa
+sdv-id-uSPqCT,46,M,Retinoblastoma,Right,2024-12-30,Stage IV,Surgery,False,51,5,In Remission,84,BRAF Mutation,True,Japan
+sdv-id-NqekcN,72,M,Lymphoma,Left,2023-12-21,Stage II,Chemotherapy,True,18,4,In Remission,91,,True,South Africa
+sdv-id-Jezjmj,37,M,Retinoblastoma,Bilateral,2022-05-03,Stage IV,Chemotherapy,True,5,20,In Remission,107,BRAF Mutation,True,Canada
+sdv-id-AnhAVI,64,Other,Lymphoma,Right,2019-11-26,Stage IV,Radiation,False,10,5,Deceased,72,BRAF Mutation,True,UK
+sdv-id-mXPoaa,35,M,Melanoma,Bilateral,2022-04-13,Stage III,Chemotherapy,False,14,7,In Remission,54,BRAF Mutation,True,Germany
+sdv-id-ftcAFo,34,F,Lymphoma,Bilateral,2024-12-30,Stage I,Surgery,False,30,9,In Remission,46,BRAF Mutation,True,UK
+sdv-id-tTDMqj,1,F,Melanoma,Bilateral,2024-12-30,Stage IV,Radiation,True,38,6,Active,81,,False,India
+sdv-id-syznvC,35,F,Retinoblastoma,Bilateral,2024-05-09,Stage I,Radiation,True,2,17,Active,41,BRAF Mutation,True,UK
+sdv-id-vbINji,72,M,Retinoblastoma,Bilateral,2023-02-08,Stage III,Chemotherapy,True,14,5,In Remission,102,,True,UK
+sdv-id-aDzwcj,72,M,Retinoblastoma,Right,2023-10-30,Stage II,Radiation,True,57,4,In Remission,104,,False,South Africa
+sdv-id-xXLUKv,53,Other,Retinoblastoma,Left,2021-02-06,Stage III,Chemotherapy,False,38,20,In Remission,55,,False,Brazil
+sdv-id-tFJocd,9,Other,Melanoma,Left,2023-01-27,Stage II,Chemotherapy,True,2,9,In Remission,68,BRAF Mutation,False,Australia
+sdv-id-SmVTYa,68,F,Retinoblastoma,Right,2019-02-02,Stage I,Surgery,True,62,8,Active,81,BRAF Mutation,False,France
+sdv-id-uaucxn,72,Other,Lymphoma,Bilateral,2023-10-27,Stage IV,Radiation,False,13,4,Active,120,BRAF Mutation,False,Australia
+sdv-id-ApUDBz,58,F,Retinoblastoma,Bilateral,2023-06-07,Stage II,Chemotherapy,True,23,13,In Remission,120,BRAF Mutation,False,Germany
+sdv-id-VohreY,66,M,Melanoma,Right,2019-01-31,Stage I,Chemotherapy,True,62,4,Active,99,,True,USA
+sdv-id-NdNrHE,44,F,Retinoblastoma,Right,2020-04-10,Stage II,Chemotherapy,False,22,16,In Remission,15,BRAF Mutation,False,India
+sdv-id-znEqnH,40,Other,Lymphoma,Right,2023-10-03,Stage II,Surgery,False,51,4,Active,72,,False,Canada
+sdv-id-CLCjkf,72,Other,Melanoma,Bilateral,2021-02-10,Stage III,Radiation,True,2,8,Deceased,77,BRAF Mutation,False,India
+sdv-id-oOLijl,38,Other,Retinoblastoma,Bilateral,2020-03-09,Stage II,Chemotherapy,False,22,4,Active,100,BRAF Mutation,False,Australia
+sdv-id-MPmcTK,18,F,Lymphoma,Left,2024-05-16,Stage III,Surgery,False,47,5,Deceased,62,BRAF Mutation,False,Brazil
+sdv-id-VUjGTc,72,F,Lymphoma,Bilateral,2020-07-21,Stage III,Chemotherapy,True,49,5,In Remission,97,,False,South Africa
+sdv-id-rQlZwd,1,M,Retinoblastoma,Right,2024-05-01,Stage IV,Chemotherapy,True,52,4,In Remission,1,BRAF Mutation,False,Germany
+sdv-id-HDhGzt,6,M,Lymphoma,Right,2024-11-10,Stage I,Surgery,False,34,4,In Remission,50,,True,France
+sdv-id-WCTskn,58,M,Lymphoma,Left,2021-08-12,Stage IV,Chemotherapy,True,39,13,Deceased,58,,True,South Africa
+sdv-id-UZfydF,28,Other,Melanoma,Bilateral,2023-07-02,Stage IV,Surgery,True,26,9,Active,110,,True,Canada
+sdv-id-WULfeS,68,F,Melanoma,Bilateral,2021-10-10,Stage III,Surgery,False,61,4,Deceased,64,BRAF Mutation,False,Germany
+sdv-id-QEdXaN,64,Other,Retinoblastoma,Left,2024-06-29,Stage I,Radiation,False,42,4,In Remission,32,BRAF Mutation,True,Germany
+sdv-id-tTSHaE,47,Other,Lymphoma,Left,2020-03-20,Stage I,Surgery,False,57,6,Deceased,66,,True,Australia
+sdv-id-NGRtet,72,F,Melanoma,Left,2020-05-23,Stage I,Chemotherapy,False,12,8,Active,52,,True,Japan
+sdv-id-uDMDbr,72,Other,Retinoblastoma,Bilateral,2024-06-14,Stage IV,Surgery,True,13,4,In Remission,27,BRAF Mutation,True,Canada
+sdv-id-DwMcXP,64,Other,Melanoma,Left,2021-09-27,Stage I,Chemotherapy,False,12,4,In Remission,76,BRAF Mutation,True,Japan
+sdv-id-ifuOlN,72,Other,Retinoblastoma,Left,2023-07-22,Stage II,Surgery,True,48,4,Active,100,,False,UK
+sdv-id-lUHSMt,1,Other,Melanoma,Right,2021-10-18,Stage II,Radiation,False,10,7,In Remission,82,,True,India
+sdv-id-CObNAB,72,Other,Melanoma,Right,2021-11-18,Stage II,Radiation,False,26,6,Deceased,21,BRAF Mutation,True,Brazil
+sdv-id-ktFEqA,52,F,Lymphoma,Right,2023-08-28,Stage II,Radiation,True,10,7,In Remission,113,BRAF Mutation,True,Canada
+sdv-id-TWfEuH,63,M,Melanoma,Left,2024-02-11,Stage III,Surgery,True,28,5,Deceased,106,,False,Canada
+sdv-id-wSObPl,47,M,Lymphoma,Bilateral,2023-12-24,Stage IV,Surgery,False,67,20,Active,82,,False,South Africa
+sdv-id-fGakFI,71,M,Retinoblastoma,Bilateral,2023-01-27,Stage III,Surgery,False,62,17,In Remission,41,,True,South Africa
+sdv-id-sOmQAO,72,M,Lymphoma,Right,2022-03-20,Stage IV,Surgery,False,67,9,In Remission,58,,False,UK
+sdv-id-EvpbeB,67,Other,Retinoblastoma,Bilateral,2024-04-20,Stage III,Radiation,False,25,17,Deceased,58,,False,Japan
+sdv-id-DLSAkd,46,F,Retinoblastoma,Left,2024-12-30,Stage II,Chemotherapy,False,66,6,Deceased,94,BRAF Mutation,False,Australia
+sdv-id-JQbnwo,72,F,Melanoma,Bilateral,2024-12-30,Stage III,Radiation,True,59,12,Active,120,BRAF Mutation,True,France
+sdv-id-YncSnB,7,F,Retinoblastoma,Bilateral,2023-09-02,Stage IV,Chemotherapy,True,14,9,Active,35,BRAF Mutation,True,Canada
+sdv-id-MBJFJb,72,F,Melanoma,Right,2021-05-29,Stage IV,Radiation,False,14,13,In Remission,29,,True,Germany
+sdv-id-utgcKP,35,Other,Melanoma,Left,2020-03-31,Stage III,Chemotherapy,False,67,4,In Remission,12,,True,India
+sdv-id-xgScYl,1,F,Retinoblastoma,Bilateral,2020-04-12,Stage III,Chemotherapy,True,54,14,Active,101,BRAF Mutation,True,UK
+sdv-id-wfJAEs,71,F,Melanoma,Left,2024-12-11,Stage III,Surgery,True,62,6,Active,68,BRAF Mutation,False,USA
+sdv-id-skEibO,3,M,Retinoblastoma,Right,2019-01-02,Stage III,Radiation,False,4,9,Active,50,,True,Australia
+sdv-id-rSbCAS,47,Other,Melanoma,Left,2021-06-29,Stage III,Radiation,True,38,15,Deceased,51,BRAF Mutation,False,USA
+sdv-id-brHxzB,71,Other,Lymphoma,Right,2020-01-08,Stage IV,Chemotherapy,False,14,10,In Remission,37,,True,South Africa
+sdv-id-OcCNMT,55,Other,Retinoblastoma,Right,2019-09-01,Stage II,Chemotherapy,False,22,4,Deceased,23,BRAF Mutation,True,Japan
+sdv-id-DvOFXz,72,F,Retinoblastoma,Right,2019-01-02,Stage III,Chemotherapy,False,63,5,Deceased,75,,False,Germany
+sdv-id-AGufqg,63,F,Retinoblastoma,Left,2023-04-27,Stage I,Radiation,True,21,4,Deceased,56,,True,France
+sdv-id-YhFOOe,64,Other,Melanoma,Right,2019-11-02,Stage III,Radiation,False,2,4,Deceased,104,BRAF Mutation,False,USA
+sdv-id-oxIBDQ,51,F,Melanoma,Right,2023-04-24,Stage II,Radiation,False,42,6,In Remission,101,BRAF Mutation,True,South Africa
+sdv-id-TpBIUV,72,F,Lymphoma,Left,2019-07-01,Stage II,Radiation,True,49,5,In Remission,47,,False,Brazil
+sdv-id-huQgiE,1,F,Melanoma,Left,2024-01-11,Stage I,Radiation,True,12,6,Deceased,38,BRAF Mutation,False,UK
+sdv-id-mrjoTl,31,Other,Lymphoma,Bilateral,2020-03-05,Stage I,Radiation,True,9,4,In Remission,33,BRAF Mutation,True,India
+sdv-id-kmNMQZ,47,M,Lymphoma,Bilateral,2019-04-23,Stage III,Radiation,True,62,5,In Remission,57,BRAF Mutation,True,USA
+sdv-id-QCLOVj,36,Other,Retinoblastoma,Left,2020-03-17,Stage I,Surgery,False,32,4,Deceased,84,BRAF Mutation,False,France
+sdv-id-JTelvc,64,Other,Retinoblastoma,Left,2024-02-26,Stage II,Chemotherapy,False,63,6,Active,119,BRAF Mutation,True,Australia
+sdv-id-FShcwx,69,Other,Lymphoma,Right,2020-06-26,Stage IV,Surgery,False,65,5,Deceased,6,BRAF Mutation,False,South Africa
+sdv-id-iiBxTK,1,M,Melanoma,Right,2024-08-12,Stage II,Surgery,False,49,4,In Remission,80,BRAF Mutation,False,Brazil
+sdv-id-vqXMyt,52,Other,Melanoma,Right,2019-11-27,Stage IV,Surgery,False,17,20,Active,58,,True,Canada
+sdv-id-IqcbXP,72,F,Lymphoma,Left,2019-10-05,Stage I,Radiation,True,38,4,In Remission,35,BRAF Mutation,False,UK
+sdv-id-wXgmiq,30,F,Melanoma,Right,2019-09-02,Stage II,Radiation,True,9,11,Active,99,BRAF Mutation,False,Germany
+sdv-id-oDgMpe,39,F,Lymphoma,Bilateral,2024-01-25,Stage III,Surgery,False,2,6,Active,75,,False,USA
+sdv-id-gjENiW,21,M,Melanoma,Right,2022-03-13,Stage III,Radiation,False,64,4,In Remission,38,,False,India
+sdv-id-swJSHc,1,F,Lymphoma,Right,2024-05-21,Stage III,Chemotherapy,True,38,9,In Remission,1,,False,South Africa
+sdv-id-XNsPEb,72,Other,Lymphoma,Right,2022-01-18,Stage I,Surgery,True,38,9,Deceased,19,,False,South Africa
+sdv-id-TpFUwZ,59,M,Lymphoma,Left,2024-01-20,Stage I,Radiation,False,19,20,Deceased,1,BRAF Mutation,False,Canada
+sdv-id-bNeRdG,72,F,Melanoma,Bilateral,2023-08-25,Stage I,Surgery,True,26,9,Deceased,31,BRAF Mutation,False,Japan
+sdv-id-jcNjdd,33,M,Retinoblastoma,Right,2024-05-09,Stage II,Radiation,False,54,8,Deceased,120,BRAF Mutation,True,Canada
+sdv-id-openNB,72,Other,Lymphoma,Bilateral,2019-01-02,Stage III,Surgery,False,50,13,In Remission,99,,False,Australia
+sdv-id-qiwBif,37,M,Lymphoma,Left,2020-07-18,Stage III,Radiation,True,25,10,In Remission,52,,False,France
+sdv-id-bmWwBt,40,M,Lymphoma,Right,2024-06-17,Stage II,Chemotherapy,False,53,7,Active,78,BRAF Mutation,True,South Africa
+sdv-id-jSzmXH,72,F,Retinoblastoma,Right,2024-12-30,Stage IV,Surgery,True,20,10,Deceased,91,BRAF Mutation,True,UK
+sdv-id-sloBnh,72,Other,Retinoblastoma,Left,2021-08-09,Stage I,Surgery,True,57,4,In Remission,66,,False,South Africa
+sdv-id-YdNEug,1,Other,Melanoma,Bilateral,2020-06-07,Stage IV,Surgery,True,7,4,In Remission,120,,True,France
+sdv-id-nObHzy,72,F,Melanoma,Right,2023-12-07,Stage IV,Chemotherapy,False,50,13,Active,103,,False,USA
+sdv-id-lympeo,1,F,Retinoblastoma,Bilateral,2024-08-08,Stage III,Surgery,True,23,14,In Remission,120,BRAF Mutation,False,Brazil
+sdv-id-XBNbEk,39,F,Retinoblastoma,Bilateral,2024-09-14,Stage IV,Chemotherapy,True,67,4,In Remission,72,BRAF Mutation,False,France
+sdv-id-JaFlIM,72,M,Melanoma,Left,2024-06-28,Stage I,Chemotherapy,False,67,4,Active,22,,True,India
+sdv-id-gqRYAd,1,M,Lymphoma,Bilateral,2020-12-28,Stage III,Radiation,False,57,4,Deceased,120,BRAF Mutation,False,UK
+sdv-id-QdXkqD,1,M,Retinoblastoma,Right,2023-08-02,Stage II,Chemotherapy,False,62,19,In Remission,40,,True,Brazil
+sdv-id-vZvOmX,65,M,Melanoma,Left,2024-12-30,Stage I,Radiation,True,4,11,Active,32,,True,Brazil
+sdv-id-ihniPS,72,Other,Melanoma,Left,2019-01-02,Stage III,Radiation,True,20,5,In Remission,48,BRAF Mutation,False,Australia
+sdv-id-jZCUik,70,F,Lymphoma,Left,2022-01-23,Stage IV,Radiation,False,49,7,Deceased,47,BRAF Mutation,True,Japan
+sdv-id-SrgYUY,56,M,Lymphoma,Right,2023-08-26,Stage II,Chemotherapy,False,59,9,Deceased,74,,False,Germany
+sdv-id-ygIvVy,29,F,Melanoma,Bilateral,2021-09-03,Stage II,Radiation,False,41,4,Active,52,BRAF Mutation,False,Australia
+sdv-id-zTaJWc,55,F,Retinoblastoma,Bilateral,2024-02-29,Stage III,Surgery,True,59,6,Active,57,BRAF Mutation,False,Australia
+sdv-id-FUFcph,28,M,Retinoblastoma,Bilateral,2022-12-22,Stage II,Chemotherapy,True,20,9,Active,28,BRAF Mutation,True,USA
+sdv-id-yvbATr,1,M,Lymphoma,Right,2022-03-30,Stage IV,Surgery,False,50,8,Deceased,117,,False,Australia
+sdv-id-PikMyk,72,Other,Lymphoma,Left,2023-12-15,Stage II,Chemotherapy,True,67,4,In Remission,10,,True,Canada
+sdv-id-zmjHQW,12,M,Lymphoma,Right,2022-02-01,Stage II,Chemotherapy,False,54,4,In Remission,66,BRAF Mutation,True,France
+sdv-id-kRjcDI,1,F,Lymphoma,Bilateral,2021-01-11,Stage IV,Surgery,True,58,19,Deceased,76,BRAF Mutation,True,Japan
+sdv-id-sZwWfM,67,F,Melanoma,Bilateral,2024-12-30,Stage II,Radiation,False,62,9,Deceased,63,BRAF Mutation,True,France
+sdv-id-fqmwkD,71,F,Lymphoma,Right,2024-04-20,Stage II,Radiation,True,7,5,Active,90,BRAF Mutation,False,USA
+sdv-id-qCKNxG,46,Other,Retinoblastoma,Bilateral,2023-11-12,Stage III,Radiation,False,15,13,Deceased,86,,False,USA
+sdv-id-OWoYWm,44,Other,Lymphoma,Right,2023-08-30,Stage I,Chemotherapy,False,33,6,In Remission,100,BRAF Mutation,True,South Africa
+sdv-id-CRwkvo,36,F,Retinoblastoma,Left,2023-07-06,Stage III,Surgery,False,2,14,In Remission,40,,False,India
+sdv-id-kReVIx,45,F,Lymphoma,Bilateral,2023-04-05,Stage IV,Chemotherapy,False,42,11,Active,25,BRAF Mutation,True,Canada
+sdv-id-WDMiHn,26,F,Retinoblastoma,Right,2024-07-04,Stage II,Surgery,False,18,7,Deceased,41,BRAF Mutation,True,UK
+sdv-id-hHAPbz,72,M,Retinoblastoma,Right,2024-12-30,Stage II,Radiation,False,2,10,Active,96,,True,India
+sdv-id-qkrrjF,72,F,Lymphoma,Left,2023-01-25,Stage IV,Chemotherapy,True,53,7,In Remission,120,,False,Germany
+sdv-id-LoAxiH,53,M,Melanoma,Right,2023-09-09,Stage IV,Chemotherapy,False,67,7,Active,45,BRAF Mutation,True,India
+sdv-id-HSNeRQ,50,Other,Retinoblastoma,Right,2020-07-25,Stage IV,Surgery,True,34,16,Active,100,,False,UK
+sdv-id-jgsMBE,30,Other,Retinoblastoma,Right,2021-03-21,Stage I,Radiation,True,6,12,Active,104,,True,UK
+sdv-id-ORAoPu,72,Other,Melanoma,Bilateral,2024-07-02,Stage III,Chemotherapy,True,59,19,Active,38,BRAF Mutation,False,Australia
+sdv-id-QHmKSg,24,Other,Melanoma,Bilateral,2024-12-30,Stage I,Chemotherapy,False,26,5,Deceased,73,,True,France
+sdv-id-auzAsh,7,M,Lymphoma,Left,2021-09-26,Stage III,Radiation,True,5,20,Deceased,120,BRAF Mutation,False,Australia
+sdv-id-DsEXfM,17,M,Lymphoma,Right,2024-02-22,Stage II,Chemotherapy,False,7,7,Deceased,64,BRAF Mutation,True,India
+sdv-id-TTWiVU,54,F,Lymphoma,Right,2019-01-02,Stage III,Chemotherapy,False,22,4,Active,89,,False,Brazil
+sdv-id-PKSSTm,68,Other,Lymphoma,Left,2021-02-03,Stage I,Chemotherapy,False,39,4,Deceased,46,,False,UK
+sdv-id-XSZLCV,51,M,Melanoma,Right,2019-01-02,Stage II,Chemotherapy,True,62,20,Deceased,60,,False,India
+sdv-id-yqydPA,69,M,Melanoma,Bilateral,2024-01-27,Stage I,Surgery,False,2,4,Deceased,52,,False,USA
+sdv-id-QmibNG,48,F,Retinoblastoma,Bilateral,2021-05-17,Stage I,Surgery,False,14,9,Deceased,30,,True,Brazil
+sdv-id-GVjvYE,39,F,Lymphoma,Right,2023-06-01,Stage III,Surgery,False,31,7,In Remission,111,,False,Canada
+sdv-id-vZdzpv,1,F,Lymphoma,Left,2022-04-05,Stage IV,Surgery,True,43,14,In Remission,96,BRAF Mutation,False,Brazil
+sdv-id-VnwwtB,72,Other,Lymphoma,Left,2021-01-19,Stage IV,Surgery,True,38,4,In Remission,30,BRAF Mutation,False,Brazil
+sdv-id-ESxKPg,72,F,Lymphoma,Bilateral,2019-01-02,Stage II,Radiation,False,12,8,Active,86,,True,India
+sdv-id-hsagfL,72,Other,Lymphoma,Bilateral,2024-05-08,Stage IV,Chemotherapy,False,2,4,In Remission,73,BRAF Mutation,True,Japan
+sdv-id-UJOSDe,24,M,Lymphoma,Right,2023-05-12,Stage IV,Radiation,False,34,8,In Remission,84,,False,India
+sdv-id-LcZFab,3,M,Retinoblastoma,Right,2023-04-02,Stage II,Surgery,False,14,18,In Remission,32,BRAF Mutation,False,Australia
+sdv-id-KGSQmt,3,F,Lymphoma,Left,2023-06-05,Stage III,Chemotherapy,False,57,4,In Remission,17,BRAF Mutation,True,Germany
+sdv-id-zpwEmV,64,F,Lymphoma,Bilateral,2024-12-30,Stage II,Chemotherapy,False,32,4,Deceased,73,BRAF Mutation,False,UK
+sdv-id-pQGvbC,12,Other,Retinoblastoma,Bilateral,2020-07-23,Stage I,Radiation,False,59,15,Active,111,BRAF Mutation,True,Canada
+sdv-id-xMeTnG,72,F,Lymphoma,Left,2023-06-08,Stage III,Surgery,True,13,4,Deceased,52,BRAF Mutation,False,Germany
+sdv-id-aTXdBK,32,M,Melanoma,Bilateral,2019-08-29,Stage I,Surgery,True,11,9,In Remission,98,BRAF Mutation,True,UK
+sdv-id-JiunzJ,49,Other,Melanoma,Left,2024-12-30,Stage I,Surgery,True,33,11,Deceased,48,,False,South Africa
+sdv-id-kXyJez,32,Other,Retinoblastoma,Left,2023-07-17,Stage IV,Chemotherapy,True,25,10,In Remission,120,BRAF Mutation,True,India
+sdv-id-QxuEJq,64,F,Retinoblastoma,Left,2021-10-18,Stage I,Radiation,True,27,6,Deceased,38,BRAF Mutation,True,South Africa
+sdv-id-ICDRKr,72,M,Lymphoma,Right,2024-07-17,Stage III,Radiation,False,40,4,Active,19,BRAF Mutation,False,Japan
+sdv-id-iBudrK,47,M,Retinoblastoma,Right,2019-04-24,Stage II,Surgery,True,61,13,Active,76,BRAF Mutation,True,Australia
+sdv-id-dEHnjm,34,Other,Retinoblastoma,Left,2024-12-20,Stage II,Radiation,True,67,13,Deceased,63,,False,Australia
+sdv-id-HnBBrP,45,F,Lymphoma,Left,2023-09-10,Stage II,Surgery,False,13,13,In Remission,71,,False,Japan
+sdv-id-cevDPK,52,Other,Lymphoma,Right,2024-12-30,Stage IV,Radiation,True,8,4,Active,16,BRAF Mutation,True,Japan
+sdv-id-qSyMeA,43,Other,Lymphoma,Left,2024-04-30,Stage III,Surgery,True,54,9,In Remission,40,BRAF Mutation,False,India
+sdv-id-kPhLHQ,55,M,Lymphoma,Bilateral,2021-11-26,Stage I,Surgery,True,62,14,Deceased,65,BRAF Mutation,False,Brazil
+sdv-id-RtNmqt,64,Other,Melanoma,Bilateral,2023-08-27,Stage I,Surgery,False,35,9,Deceased,41,,False,USA
+sdv-id-HyDEbJ,64,F,Retinoblastoma,Left,2022-05-31,Stage II,Radiation,False,58,20,Deceased,44,,True,India
+sdv-id-qSbIfR,27,Other,Lymphoma,Right,2023-03-25,Stage I,Radiation,False,12,17,In Remission,66,BRAF Mutation,True,USA
+sdv-id-ecSVBK,67,F,Retinoblastoma,Right,2019-10-02,Stage II,Surgery,True,51,7,Active,8,,True,Canada
+sdv-id-VbvrUZ,48,Other,Lymphoma,Right,2024-11-21,Stage IV,Chemotherapy,True,52,6,In Remission,120,BRAF Mutation,False,Brazil
+sdv-id-oGoYrs,55,F,Lymphoma,Left,2019-01-02,Stage I,Radiation,False,58,8,In Remission,88,,False,South Africa
+sdv-id-skLLXP,49,F,Lymphoma,Right,2019-01-02,Stage I,Surgery,True,67,5,In Remission,39,,False,USA
+sdv-id-hQPBgX,70,Other,Retinoblastoma,Bilateral,2023-07-28,Stage II,Radiation,False,27,7,Active,120,,False,USA
+sdv-id-bweEXT,39,F,Lymphoma,Bilateral,2022-02-08,Stage III,Radiation,True,35,6,Deceased,33,,True,Brazil
+sdv-id-NddOKS,15,M,Melanoma,Bilateral,2023-11-19,Stage I,Radiation,True,64,12,Active,120,,False,UK
+sdv-id-aLkdIO,38,F,Retinoblastoma,Right,2021-11-24,Stage I,Chemotherapy,False,30,13,Deceased,113,BRAF Mutation,False,USA
+sdv-id-cXqZnz,1,F,Retinoblastoma,Bilateral,2019-04-04,Stage II,Chemotherapy,False,39,4,Deceased,75,BRAF Mutation,True,Canada
+sdv-id-nJtvxq,10,Other,Retinoblastoma,Right,2019-09-08,Stage III,Radiation,True,11,19,In Remission,48,,True,South Africa
+sdv-id-hglTtg,38,M,Lymphoma,Right,2024-12-11,Stage I,Surgery,True,44,4,Active,72,BRAF Mutation,False,Canada
+sdv-id-PTsIDC,33,Other,Melanoma,Right,2022-03-05,Stage IV,Radiation,False,60,20,Deceased,68,,False,Canada
+sdv-id-zTaoYF,40,Other,Melanoma,Left,2019-01-02,Stage II,Radiation,False,47,4,Deceased,120,,True,South Africa
+sdv-id-xfvGLG,54,F,Melanoma,Bilateral,2019-10-22,Stage IV,Surgery,True,36,4,In Remission,56,BRAF Mutation,False,India
+sdv-id-UpKTeR,44,Other,Retinoblastoma,Right,2023-02-28,Stage III,Chemotherapy,False,17,20,In Remission,28,BRAF Mutation,True,India
+sdv-id-dUGuHc,70,Other,Retinoblastoma,Right,2022-01-19,Stage IV,Radiation,False,50,7,Deceased,65,,True,Australia
+sdv-id-LzHaGC,72,Other,Melanoma,Left,2020-04-20,Stage II,Chemotherapy,True,23,4,Active,100,BRAF Mutation,False,UK
+sdv-id-JMbqXN,59,Other,Melanoma,Left,2021-03-16,Stage IV,Surgery,True,39,16,Active,47,BRAF Mutation,False,USA
+sdv-id-kVLWou,10,M,Melanoma,Bilateral,2021-04-17,Stage II,Chemotherapy,True,33,15,Deceased,57,,True,Japan
+sdv-id-RUTcPL,70,M,Melanoma,Left,2023-07-05,Stage III,Surgery,True,34,4,Active,50,,False,USA
+sdv-id-Xdbqax,63,M,Lymphoma,Left,2024-10-07,Stage IV,Chemotherapy,False,36,17,Active,63,BRAF Mutation,False,Japan
+sdv-id-GdMOlp,72,F,Lymphoma,Bilateral,2020-02-25,Stage I,Surgery,True,57,16,Deceased,66,BRAF Mutation,True,Brazil
+sdv-id-FugunX,30,Other,Melanoma,Right,2020-11-26,Stage III,Chemotherapy,True,37,9,In Remission,68,,False,South Africa
+sdv-id-snghaX,16,Other,Melanoma,Bilateral,2021-01-10,Stage IV,Radiation,True,23,13,Active,53,BRAF Mutation,False,UK
+sdv-id-IroCyI,67,Other,Retinoblastoma,Left,2019-08-27,Stage IV,Radiation,False,57,12,Active,120,,False,USA
+sdv-id-lQWvGk,63,M,Lymphoma,Right,2020-08-28,Stage III,Chemotherapy,False,4,5,Active,114,,False,Germany
+sdv-id-BRHvOU,35,F,Retinoblastoma,Right,2022-09-28,Stage IV,Radiation,False,10,7,Deceased,27,,True,USA
+sdv-id-gaWvVV,72,M,Lymphoma,Right,2024-06-23,Stage III,Surgery,False,50,4,Active,33,BRAF Mutation,False,France
+sdv-id-BXVjlO,31,M,Retinoblastoma,Left,2024-12-12,Stage IV,Surgery,False,30,12,Deceased,110,BRAF Mutation,False,USA
+sdv-id-BHjxSn,72,F,Retinoblastoma,Right,2023-04-13,Stage IV,Surgery,False,7,11,Deceased,104,,True,India
+sdv-id-HmyXSR,72,F,Lymphoma,Bilateral,2021-12-03,Stage IV,Radiation,False,24,4,Deceased,42,BRAF Mutation,True,Germany
+sdv-id-VIogjl,51,F,Retinoblastoma,Right,2021-01-29,Stage II,Chemotherapy,False,45,13,In Remission,69,,False,Germany
+sdv-id-WTZgNU,65,F,Melanoma,Right,2023-12-06,Stage IV,Chemotherapy,False,36,11,Active,95,BRAF Mutation,False,UK
+sdv-id-TYdRdV,72,Other,Melanoma,Right,2023-07-07,Stage II,Radiation,True,55,9,Deceased,73,,True,UK
+sdv-id-TbplGV,72,Other,Melanoma,Right,2019-08-12,Stage IV,Radiation,True,66,15,Deceased,49,,True,Germany
+sdv-id-sfzMvL,33,Other,Retinoblastoma,Left,2021-08-07,Stage III,Surgery,False,33,20,Deceased,4,,False,Canada
+sdv-id-BexyfQ,72,F,Retinoblastoma,Left,2023-06-19,Stage I,Chemotherapy,False,2,11,Active,120,BRAF Mutation,True,UK
+sdv-id-jtuqcA,1,F,Retinoblastoma,Left,2019-11-17,Stage IV,Chemotherapy,False,60,11,Deceased,1,BRAF Mutation,False,Germany
+sdv-id-hvANQG,53,F,Retinoblastoma,Right,2020-01-15,Stage III,Surgery,True,67,4,Active,41,,True,Brazil
+sdv-id-zrYjfT,24,M,Melanoma,Bilateral,2024-01-10,Stage III,Radiation,False,24,8,Active,45,,False,USA
+sdv-id-JRTuVu,72,Other,Melanoma,Right,2024-02-22,Stage IV,Surgery,False,67,7,Deceased,14,,False,Australia
+sdv-id-nKLFWg,65,F,Retinoblastoma,Left,2024-09-08,Stage II,Surgery,False,59,5,Deceased,2,,True,Germany
+sdv-id-gTkqEQ,7,Other,Retinoblastoma,Right,2024-01-16,Stage II,Chemotherapy,True,57,4,Deceased,7,BRAF Mutation,True,Australia
+sdv-id-OFdafb,72,F,Retinoblastoma,Left,2021-01-21,Stage III,Surgery,True,2,11,Active,120,BRAF Mutation,False,UK
+sdv-id-nZniDI,1,F,Lymphoma,Bilateral,2019-01-02,Stage II,Radiation,True,26,15,Deceased,67,BRAF Mutation,True,India
+sdv-id-HluIHW,45,F,Lymphoma,Right,2019-11-04,Stage III,Radiation,True,62,4,Active,42,,False,Japan
+sdv-id-MXbjMG,12,M,Melanoma,Bilateral,2021-09-15,Stage II,Chemotherapy,False,55,4,Active,19,,True,Australia
+sdv-id-foCUkR,72,Other,Lymphoma,Right,2024-04-29,Stage IV,Chemotherapy,True,56,4,Deceased,63,,True,Brazil
+sdv-id-spBNnv,72,Other,Melanoma,Right,2024-06-21,Stage II,Chemotherapy,False,54,20,In Remission,45,,True,India
+sdv-id-uGmapB,7,M,Lymphoma,Bilateral,2024-02-05,Stage IV,Chemotherapy,True,48,7,Deceased,109,,True,Canada
+sdv-id-kySEGj,31,M,Melanoma,Left,2022-02-26,Stage II,Radiation,False,26,19,In Remission,13,,False,Brazil
+sdv-id-JHycAJ,60,M,Lymphoma,Left,2020-01-22,Stage III,Chemotherapy,True,31,20,Active,18,,False,Australia
+sdv-id-ninYVa,64,Other,Retinoblastoma,Bilateral,2021-06-09,Stage I,Chemotherapy,True,58,6,Active,28,,False,Canada
+sdv-id-QDJueE,27,Other,Lymphoma,Right,2024-07-31,Stage III,Surgery,False,45,4,Active,120,,True,USA
+sdv-id-oNVAlX,3,M,Lymphoma,Bilateral,2022-04-30,Stage II,Surgery,False,62,15,In Remission,61,,False,UK
+sdv-id-iQeXdX,62,F,Retinoblastoma,Right,2023-03-26,Stage III,Radiation,True,39,14,Deceased,63,,False,Japan
+sdv-id-iXiamA,4,F,Retinoblastoma,Bilateral,2019-01-02,Stage II,Surgery,True,21,17,In Remission,20,BRAF Mutation,False,Australia
+sdv-id-PhRREP,62,M,Melanoma,Left,2022-09-27,Stage IV,Radiation,False,2,6,Active,81,BRAF Mutation,True,Canada
+sdv-id-jdmdDh,1,M,Melanoma,Right,2022-11-01,Stage IV,Chemotherapy,False,25,5,In Remission,76,BRAF Mutation,False,South Africa
+sdv-id-kOtUyc,72,Other,Melanoma,Bilateral,2021-12-21,Stage IV,Surgery,False,2,4,Deceased,61,,False,USA
+sdv-id-AQtLId,72,M,Retinoblastoma,Bilateral,2021-01-31,Stage II,Surgery,True,43,8,In Remission,102,,True,India
+sdv-id-wIGMGm,38,M,Lymphoma,Bilateral,2023-07-26,Stage I,Surgery,True,64,6,In Remission,31,BRAF Mutation,False,Germany
+sdv-id-haMaIh,72,Other,Lymphoma,Bilateral,2023-03-26,Stage III,Chemotherapy,True,30,8,In Remission,61,BRAF Mutation,False,Japan
+sdv-id-WpPXDS,62,Other,Retinoblastoma,Bilateral,2024-12-22,Stage IV,Chemotherapy,False,14,4,In Remission,66,,False,UK
+sdv-id-Kxbeaa,57,Other,Melanoma,Left,2021-03-03,Stage I,Radiation,True,63,7,Deceased,120,,True,Japan
+sdv-id-rDATjR,63,Other,Melanoma,Left,2021-08-06,Stage IV,Radiation,False,19,4,Deceased,74,BRAF Mutation,True,USA
+sdv-id-tFXdEy,72,Other,Retinoblastoma,Bilateral,2024-10-02,Stage III,Chemotherapy,True,18,4,Deceased,80,BRAF Mutation,False,Australia
+sdv-id-EDSzBy,67,F,Lymphoma,Left,2020-05-08,Stage I,Surgery,False,10,15,Active,60,BRAF Mutation,True,Germany
+sdv-id-JyEOGx,72,F,Melanoma,Bilateral,2019-01-25,Stage III,Radiation,False,54,14,Deceased,109,,True,South Africa
+sdv-id-nLeIIy,72,Other,Melanoma,Left,2021-10-07,Stage IV,Surgery,False,5,15,Deceased,83,,False,UK
+sdv-id-KagwKx,29,F,Retinoblastoma,Bilateral,2024-05-14,Stage IV,Chemotherapy,False,30,4,Deceased,78,,True,Brazil
+sdv-id-NePVjB,72,M,Melanoma,Right,2021-04-30,Stage II,Chemotherapy,False,36,11,Deceased,97,BRAF Mutation,False,UK
+sdv-id-vPycBE,2,M,Melanoma,Left,2021-07-31,Stage IV,Radiation,False,25,4,Active,120,BRAF Mutation,True,UK
+sdv-id-TCoIaS,52,F,Retinoblastoma,Bilateral,2023-12-18,Stage III,Surgery,True,16,16,Deceased,120,BRAF Mutation,False,Germany
+sdv-id-WLYVCG,52,F,Lymphoma,Bilateral,2020-01-24,Stage III,Surgery,False,18,10,Deceased,52,,True,South Africa
+sdv-id-lxnaEW,72,F,Melanoma,Right,2019-11-10,Stage I,Chemotherapy,True,58,8,Deceased,8,BRAF Mutation,True,India
+sdv-id-EzdQkW,69,Other,Lymphoma,Bilateral,2024-12-10,Stage IV,Radiation,False,2,9,In Remission,60,BRAF Mutation,False,South Africa
+sdv-id-CPkwdk,16,M,Melanoma,Bilateral,2024-10-02,Stage I,Surgery,True,31,10,Deceased,1,,True,South Africa
+sdv-id-wpltAQ,63,Other,Melanoma,Right,2020-03-29,Stage I,Surgery,True,54,4,In Remission,36,BRAF Mutation,False,Japan
+sdv-id-BLnTRo,41,M,Lymphoma,Right,2020-02-11,Stage IV,Chemotherapy,False,55,16,Deceased,53,BRAF Mutation,True,USA
+sdv-id-VktLBN,69,Other,Retinoblastoma,Bilateral,2024-06-24,Stage IV,Radiation,True,10,17,Active,23,BRAF Mutation,True,Brazil
+sdv-id-BOGCDG,49,Other,Retinoblastoma,Right,2024-01-29,Stage II,Surgery,False,13,11,Deceased,113,BRAF Mutation,True,India
+sdv-id-rsXFdU,60,Other,Melanoma,Right,2024-05-16,Stage I,Radiation,True,31,9,Active,24,,True,Germany
+sdv-id-zUyown,56,F,Lymphoma,Right,2021-02-12,Stage II,Chemotherapy,False,12,4,Deceased,104,BRAF Mutation,True,France
+sdv-id-bTSHVm,22,F,Melanoma,Left,2022-08-27,Stage IV,Chemotherapy,True,63,20,Active,74,,True,Canada
+sdv-id-XwFnxz,50,F,Melanoma,Bilateral,2023-09-15,Stage II,Surgery,False,27,6,Deceased,119,,True,Japan
+sdv-id-Eamcga,8,F,Melanoma,Right,2024-12-30,Stage II,Surgery,False,53,4,In Remission,120,,True,Germany
+sdv-id-lGmtai,45,M,Lymphoma,Bilateral,2021-06-28,Stage IV,Surgery,True,22,16,Active,120,BRAF Mutation,True,USA
+sdv-id-EoDFSl,71,F,Melanoma,Left,2019-08-11,Stage I,Radiation,False,2,13,Deceased,80,,False,Canada
+sdv-id-cspRED,72,F,Retinoblastoma,Left,2024-12-30,Stage I,Chemotherapy,False,58,7,Active,70,BRAF Mutation,False,UK
+sdv-id-rosIMT,39,F,Melanoma,Left,2024-11-19,Stage II,Surgery,True,65,4,Deceased,37,,True,Australia
+sdv-id-hWyjcY,54,M,Melanoma,Right,2022-11-14,Stage II,Chemotherapy,True,57,17,Active,101,,False,Germany
+sdv-id-hxLGfO,50,Other,Melanoma,Right,2023-08-11,Stage IV,Radiation,False,15,7,Active,120,BRAF Mutation,False,Canada
+sdv-id-dmXtqa,43,Other,Melanoma,Right,2023-03-22,Stage II,Radiation,False,8,4,Deceased,84,BRAF Mutation,True,India
+sdv-id-KJiKHM,27,F,Lymphoma,Left,2020-11-20,Stage I,Chemotherapy,True,28,18,Active,81,BRAF Mutation,False,UK
+sdv-id-vIOrDR,29,M,Lymphoma,Right,2024-02-20,Stage IV,Surgery,True,64,20,Deceased,30,,False,Japan
+sdv-id-xvjRhC,61,M,Melanoma,Left,2024-12-30,Stage IV,Surgery,True,61,16,Deceased,30,,False,Canada
+sdv-id-QqcMrH,72,Other,Lymphoma,Right,2023-07-08,Stage I,Radiation,False,2,4,In Remission,28,,False,Australia
+sdv-id-UVGiBW,44,M,Retinoblastoma,Bilateral,2019-08-19,Stage II,Surgery,True,15,10,In Remission,45,BRAF Mutation,False,Germany
+sdv-id-MsgwQM,48,F,Melanoma,Right,2024-07-15,Stage IV,Radiation,False,67,20,Active,61,BRAF Mutation,True,USA
+sdv-id-NCWuaR,66,F,Lymphoma,Bilateral,2020-02-14,Stage II,Chemotherapy,True,50,4,Active,77,,True,Japan
+sdv-id-ckhnPt,1,F,Melanoma,Left,2019-01-02,Stage IV,Surgery,False,5,14,Deceased,105,BRAF Mutation,True,Brazil
+sdv-id-YIJhvd,62,F,Retinoblastoma,Left,2019-05-15,Stage III,Surgery,True,24,12,Active,62,BRAF Mutation,False,Japan
+sdv-id-WwdVRo,13,M,Retinoblastoma,Right,2023-02-08,Stage IV,Chemotherapy,True,46,10,Active,99,BRAF Mutation,True,Brazil
+sdv-id-lAztnL,55,F,Melanoma,Bilateral,2019-01-02,Stage II,Chemotherapy,True,32,4,In Remission,115,BRAF Mutation,True,UK
+sdv-id-XdjEDj,62,M,Lymphoma,Left,2019-01-02,Stage IV,Surgery,True,41,4,Deceased,61,BRAF Mutation,False,Canada
+sdv-id-jVKusD,36,Other,Retinoblastoma,Bilateral,2020-07-16,Stage IV,Radiation,True,4,6,In Remission,96,,True,Brazil
+sdv-id-totFZN,44,M,Lymphoma,Left,2019-09-09,Stage IV,Chemotherapy,True,63,4,In Remission,65,,False,India
+sdv-id-ttifJs,69,Other,Lymphoma,Left,2020-11-04,Stage III,Surgery,False,35,5,Active,14,,False,UK
+sdv-id-OQPVvY,45,F,Melanoma,Left,2020-11-25,Stage I,Chemotherapy,False,16,5,Deceased,112,,False,Australia
+sdv-id-QqZzje,36,Other,Retinoblastoma,Right,2019-05-03,Stage II,Surgery,False,2,7,Active,120,,True,Australia
+sdv-id-QDcGxG,35,M,Melanoma,Left,2023-10-08,Stage III,Surgery,True,52,13,In Remission,44,BRAF Mutation,True,South Africa
+sdv-id-pMNWyV,69,M,Retinoblastoma,Right,2021-11-18,Stage IV,Surgery,False,18,13,Deceased,43,BRAF Mutation,True,Brazil
+sdv-id-SFzAtn,3,Other,Melanoma,Right,2020-07-29,Stage III,Surgery,True,22,4,Deceased,84,BRAF Mutation,False,India
+sdv-id-dpVieG,72,Other,Retinoblastoma,Left,2024-12-30,Stage III,Radiation,False,17,20,Active,98,,False,UK
+sdv-id-yEywZC,67,F,Lymphoma,Left,2022-05-22,Stage IV,Surgery,True,51,20,In Remission,107,,False,South Africa
+sdv-id-xizRNh,65,Other,Melanoma,Right,2022-07-21,Stage III,Radiation,False,38,10,In Remission,86,BRAF Mutation,False,France
+sdv-id-ZxJUzf,58,M,Retinoblastoma,Left,2021-10-31,Stage II,Radiation,False,55,10,In Remission,31,,True,Germany
+sdv-id-oeGiaI,72,M,Lymphoma,Bilateral,2021-09-27,Stage I,Chemotherapy,True,7,9,Active,71,BRAF Mutation,False,India
+sdv-id-VHJHgg,24,M,Lymphoma,Bilateral,2023-11-13,Stage I,Radiation,False,22,18,Deceased,103,,False,India
+sdv-id-QyanCN,72,M,Retinoblastoma,Bilateral,2021-08-20,Stage III,Chemotherapy,False,3,18,Deceased,68,BRAF Mutation,True,Australia
+sdv-id-lCueGH,1,Other,Melanoma,Right,2019-04-03,Stage III,Chemotherapy,False,51,19,In Remission,107,BRAF Mutation,False,France
+sdv-id-XAHfLc,1,F,Retinoblastoma,Left,2021-10-16,Stage III,Radiation,True,45,12,Active,46,,True,UK
+sdv-id-oghrFK,1,F,Melanoma,Left,2023-11-28,Stage II,Radiation,True,8,4,Deceased,120,BRAF Mutation,False,Germany
+sdv-id-dtDhep,34,Other,Retinoblastoma,Bilateral,2023-06-12,Stage II,Radiation,True,53,4,Active,120,,False,Canada
+sdv-id-PwHKmD,63,M,Retinoblastoma,Right,2020-05-17,Stage I,Surgery,False,29,16,Active,21,BRAF Mutation,False,USA
+sdv-id-MtehAa,70,F,Melanoma,Left,2019-01-02,Stage III,Surgery,True,18,13,Active,5,,True,Germany
+sdv-id-yEQBzf,60,M,Retinoblastoma,Bilateral,2023-06-05,Stage I,Surgery,False,67,4,Deceased,39,,False,Brazil
+sdv-id-TbuIOt,53,F,Lymphoma,Right,2020-07-23,Stage III,Chemotherapy,True,27,13,Active,120,,False,Australia
+sdv-id-HaCKtp,1,Other,Lymphoma,Right,2020-12-14,Stage II,Chemotherapy,True,67,11,Deceased,82,BRAF Mutation,False,Germany
+sdv-id-BxphoT,37,F,Melanoma,Bilateral,2021-03-04,Stage II,Radiation,True,19,12,In Remission,33,,False,Germany
+sdv-id-FWVvwg,63,F,Melanoma,Left,2020-03-09,Stage IV,Chemotherapy,False,16,14,In Remission,34,,True,Canada
+sdv-id-sYXDGl,72,Other,Melanoma,Bilateral,2020-01-11,Stage III,Chemotherapy,False,5,10,Deceased,62,,False,Brazil
+sdv-id-iOdJtc,36,Other,Lymphoma,Bilateral,2023-05-20,Stage II,Radiation,True,31,9,Deceased,109,,True,South Africa
+sdv-id-yICwXA,37,Other,Melanoma,Left,2022-10-05,Stage IV,Surgery,True,67,4,Active,60,BRAF Mutation,False,France
+sdv-id-kYzfHp,71,M,Melanoma,Right,2019-01-02,Stage I,Radiation,False,4,19,Deceased,55,BRAF Mutation,False,Germany
+sdv-id-kLWhrT,72,Other,Melanoma,Bilateral,2023-08-16,Stage III,Chemotherapy,False,54,20,Deceased,99,,False,Brazil
+sdv-id-CvNmBt,23,M,Melanoma,Left,2024-06-12,Stage III,Radiation,False,42,7,In Remission,67,BRAF Mutation,True,Japan
+sdv-id-zaGCPT,72,F,Lymphoma,Bilateral,2024-08-27,Stage I,Surgery,True,46,8,In Remission,36,BRAF Mutation,True,USA
+sdv-id-lZYfQE,1,Other,Retinoblastoma,Right,2024-03-06,Stage IV,Surgery,False,23,8,Active,68,,True,Germany
+sdv-id-cpqvId,15,F,Melanoma,Right,2024-10-04,Stage III,Surgery,True,2,12,In Remission,58,BRAF Mutation,False,Canada
+sdv-id-dfhNED,72,F,Lymphoma,Bilateral,2024-12-30,Stage IV,Chemotherapy,False,23,6,Deceased,6,,True,France
+sdv-id-JJEurU,72,F,Melanoma,Bilateral,2023-03-03,Stage I,Radiation,False,14,10,In Remission,58,,True,France
+sdv-id-fmmwdD,61,F,Retinoblastoma,Left,2022-06-04,Stage IV,Surgery,False,30,4,In Remission,94,BRAF Mutation,False,UK
+sdv-id-ojzLHi,7,Other,Melanoma,Bilateral,2023-11-21,Stage I,Chemotherapy,False,38,5,Deceased,82,,False,UK
+sdv-id-OirvVD,36,M,Retinoblastoma,Right,2019-03-27,Stage IV,Chemotherapy,False,3,20,Active,102,,True,USA
+sdv-id-hWmrAX,72,M,Melanoma,Right,2022-06-27,Stage I,Radiation,True,50,6,In Remission,101,,False,Brazil
+sdv-id-wERKRE,72,M,Melanoma,Right,2019-01-02,Stage II,Surgery,False,38,9,Active,120,BRAF Mutation,True,Germany
+sdv-id-lqLsHd,72,M,Melanoma,Bilateral,2023-09-20,Stage I,Chemotherapy,False,60,12,Active,106,BRAF Mutation,True,UK
+sdv-id-LBKAfx,9,Other,Lymphoma,Right,2023-07-19,Stage II,Radiation,False,44,20,Active,77,BRAF Mutation,False,Brazil
+sdv-id-muHHRL,25,Other,Lymphoma,Right,2021-10-27,Stage III,Radiation,False,12,7,In Remission,117,,False,Australia
+sdv-id-POsVhq,72,F,Lymphoma,Left,2024-02-02,Stage IV,Radiation,True,27,4,Deceased,88,,False,France
+sdv-id-Zlsggg,72,M,Melanoma,Left,2021-02-25,Stage IV,Chemotherapy,False,14,16,Deceased,47,BRAF Mutation,False,South Africa
+sdv-id-QdoRMW,48,F,Retinoblastoma,Left,2022-07-03,Stage III,Chemotherapy,True,11,6,Deceased,32,BRAF Mutation,False,India
+sdv-id-HMrYla,56,F,Retinoblastoma,Left,2022-04-05,Stage I,Radiation,True,2,6,Deceased,100,BRAF Mutation,False,South Africa
+sdv-id-ZtnSUS,68,M,Melanoma,Right,2024-07-30,Stage III,Chemotherapy,True,54,6,In Remission,81,,True,South Africa
+sdv-id-UZIXiv,71,M,Retinoblastoma,Right,2022-08-06,Stage IV,Chemotherapy,False,19,4,Active,59,,False,Brazil
+sdv-id-DRTLUT,20,F,Melanoma,Left,2023-08-25,Stage II,Chemotherapy,False,32,5,Deceased,120,BRAF Mutation,True,South Africa
+sdv-id-dYGeUq,71,F,Melanoma,Left,2024-09-03,Stage IV,Chemotherapy,False,25,16,In Remission,101,,False,Germany
+sdv-id-kvDVix,62,F,Lymphoma,Bilateral,2021-09-23,Stage IV,Surgery,True,18,7,In Remission,87,BRAF Mutation,False,Canada
+sdv-id-TYuGMT,1,M,Retinoblastoma,Bilateral,2023-12-27,Stage IV,Surgery,True,49,7,Active,117,,False,Australia
+sdv-id-rbEldv,72,F,Melanoma,Right,2024-08-18,Stage III,Surgery,True,40,19,Deceased,1,BRAF Mutation,True,Brazil
+sdv-id-VElckh,39,Other,Melanoma,Right,2021-03-19,Stage III,Chemotherapy,True,17,17,Deceased,100,BRAF Mutation,False,Australia
+sdv-id-BEjqzK,29,Other,Retinoblastoma,Bilateral,2021-12-09,Stage IV,Chemotherapy,False,36,7,Active,104,,False,Brazil
+sdv-id-wADrFk,72,M,Melanoma,Left,2019-01-02,Stage III,Chemotherapy,False,38,19,Active,81,BRAF Mutation,False,Brazil
+sdv-id-sHcbOu,72,F,Melanoma,Left,2019-01-02,Stage III,Surgery,True,13,8,Active,47,,False,France
+sdv-id-WNTycd,69,Other,Melanoma,Bilateral,2024-11-09,Stage I,Surgery,True,57,18,Deceased,46,BRAF Mutation,True,Germany
+sdv-id-RcRASs,72,F,Retinoblastoma,Right,2019-09-04,Stage IV,Chemotherapy,True,2,13,In Remission,75,BRAF Mutation,False,India
+sdv-id-eufxdw,45,Other,Lymphoma,Left,2022-05-04,Stage I,Radiation,True,57,4,Deceased,120,BRAF Mutation,True,Brazil
+sdv-id-HNDtNN,66,Other,Retinoblastoma,Left,2021-04-21,Stage IV,Radiation,False,55,4,Deceased,48,,False,Brazil
+sdv-id-ViWhma,39,F,Retinoblastoma,Left,2024-03-16,Stage IV,Surgery,False,2,6,In Remission,66,BRAF Mutation,False,UK
+sdv-id-yQDDBu,72,M,Melanoma,Right,2022-05-06,Stage I,Surgery,False,38,18,Deceased,66,,True,South Africa
+sdv-id-IHiPcm,47,F,Melanoma,Right,2023-12-31,Stage II,Radiation,True,64,4,In Remission,35,BRAF Mutation,False,South Africa
+sdv-id-MQGnCZ,28,M,Lymphoma,Bilateral,2024-12-30,Stage IV,Radiation,False,58,8,In Remission,36,,True,India
+sdv-id-ijrOiS,72,M,Lymphoma,Left,2022-11-30,Stage IV,Surgery,False,20,15,Active,112,BRAF Mutation,True,Brazil
+sdv-id-KITgVa,64,F,Melanoma,Right,2021-11-26,Stage II,Surgery,False,38,5,In Remission,83,,True,Canada
+sdv-id-ZuJkKS,72,Other,Lymphoma,Left,2021-05-31,Stage III,Chemotherapy,False,54,10,Active,106,BRAF Mutation,False,South Africa
+sdv-id-UovRyW,69,M,Lymphoma,Bilateral,2023-01-31,Stage I,Surgery,False,19,10,In Remission,70,BRAF Mutation,False,USA
+sdv-id-FiCNOj,1,F,Melanoma,Left,2023-08-03,Stage II,Radiation,True,34,8,Active,5,BRAF Mutation,False,Canada
+sdv-id-nLTqUT,56,Other,Retinoblastoma,Bilateral,2023-10-08,Stage I,Surgery,False,27,4,Active,120,,False,UK
+sdv-id-rgAhrx,72,F,Retinoblastoma,Left,2024-09-07,Stage II,Chemotherapy,False,4,4,Deceased,69,BRAF Mutation,False,USA
+sdv-id-QNSZzA,55,M,Lymphoma,Bilateral,2020-04-02,Stage IV,Radiation,True,10,16,Active,35,BRAF Mutation,True,UK
+sdv-id-zidkRl,37,M,Retinoblastoma,Right,2022-05-20,Stage IV,Radiation,False,41,4,Active,76,,True,India
+sdv-id-wDeVte,39,Other,Melanoma,Left,2020-12-09,Stage I,Radiation,True,55,4,Deceased,95,BRAF Mutation,False,Japan
+sdv-id-tzXBqo,51,M,Lymphoma,Bilateral,2020-11-23,Stage I,Surgery,True,10,8,Active,88,BRAF Mutation,False,USA
+sdv-id-aNACMD,72,F,Lymphoma,Left,2024-12-13,Stage IV,Surgery,True,54,7,Deceased,94,BRAF Mutation,True,USA
+sdv-id-ARqMXN,33,M,Retinoblastoma,Bilateral,2019-01-16,Stage IV,Chemotherapy,True,52,8,In Remission,46,BRAF Mutation,True,Canada
+sdv-id-MTSftt,1,M,Retinoblastoma,Right,2023-12-15,Stage I,Surgery,True,2,4,In Remission,108,,True,UK
+sdv-id-eazAJj,1,Other,Lymphoma,Bilateral,2022-06-16,Stage I,Surgery,True,2,20,In Remission,106,BRAF Mutation,True,USA
+sdv-id-taNRvW,35,Other,Retinoblastoma,Left,2020-01-31,Stage III,Radiation,False,50,20,Active,120,,True,Germany
+sdv-id-DNIrBV,34,M,Melanoma,Right,2020-08-09,Stage IV,Surgery,False,47,4,In Remission,62,,False,India
+sdv-id-yCiXnG,1,Other,Melanoma,Right,2023-10-05,Stage III,Radiation,False,57,10,Active,83,,True,France
+sdv-id-DBeuDz,25,F,Melanoma,Left,2020-07-03,Stage IV,Surgery,False,67,9,Deceased,101,,False,USA
+sdv-id-ePcqfJ,65,M,Melanoma,Left,2020-03-11,Stage II,Radiation,True,5,4,Deceased,92,BRAF Mutation,False,Japan
+sdv-id-jdvFwR,60,Other,Retinoblastoma,Left,2020-12-13,Stage III,Surgery,False,30,11,Active,114,BRAF Mutation,False,South Africa
+sdv-id-ZfAuIz,19,Other,Melanoma,Bilateral,2020-10-03,Stage IV,Radiation,True,48,10,Active,30,,True,India
+sdv-id-FSYvag,72,F,Lymphoma,Right,2023-04-24,Stage I,Surgery,True,54,4,Deceased,81,BRAF Mutation,False,South Africa
+sdv-id-qqBkmH,12,F,Lymphoma,Bilateral,2020-10-08,Stage III,Chemotherapy,False,2,11,Active,116,BRAF Mutation,True,Germany
+sdv-id-LqNvML,23,Other,Retinoblastoma,Left,2022-01-13,Stage I,Radiation,False,29,4,Active,96,BRAF Mutation,True,India
+sdv-id-DecRnF,26,Other,Melanoma,Right,2023-09-13,Stage I,Radiation,True,13,13,Deceased,120,BRAF Mutation,True,France
+sdv-id-iERkHS,11,M,Lymphoma,Right,2021-03-16,Stage II,Radiation,False,41,10,Deceased,81,BRAF Mutation,False,India
+sdv-id-WlFxAy,5,Other,Retinoblastoma,Bilateral,2024-04-04,Stage II,Chemotherapy,True,62,6,Deceased,44,BRAF Mutation,False,India
+sdv-id-RVQtbo,72,F,Retinoblastoma,Left,2019-10-25,Stage IV,Surgery,False,67,4,Deceased,87,BRAF Mutation,True,Brazil
+sdv-id-QdJbjD,69,F,Melanoma,Left,2024-12-30,Stage IV,Chemotherapy,False,50,8,Deceased,120,BRAF Mutation,False,India
+sdv-id-WjfXMD,56,M,Lymphoma,Left,2023-09-23,Stage III,Surgery,True,17,4,In Remission,72,BRAF Mutation,True,USA
+sdv-id-qAEBVV,43,M,Lymphoma,Right,2022-12-05,Stage III,Chemotherapy,True,54,5,Deceased,77,,True,Germany
+sdv-id-VOTpeE,72,F,Lymphoma,Bilateral,2021-07-26,Stage IV,Radiation,True,2,20,In Remission,56,BRAF Mutation,False,Australia
+sdv-id-BQTUrF,54,F,Melanoma,Bilateral,2022-08-18,Stage IV,Radiation,False,34,12,In Remission,45,,True,Australia
+sdv-id-XeYsBr,8,M,Lymphoma,Bilateral,2020-10-17,Stage II,Chemotherapy,True,14,16,In Remission,34,BRAF Mutation,False,Australia
+sdv-id-VNYIZW,1,Other,Lymphoma,Bilateral,2021-04-16,Stage III,Chemotherapy,False,38,4,In Remission,1,BRAF Mutation,True,UK
+sdv-id-mGBTfR,72,F,Lymphoma,Left,2023-08-02,Stage III,Chemotherapy,True,9,8,Active,80,,True,Germany
+sdv-id-iFgjcP,58,F,Retinoblastoma,Left,2023-06-22,Stage I,Surgery,True,66,12,In Remission,1,,True,USA
+sdv-id-fszvGV,1,Other,Melanoma,Right,2020-03-08,Stage I,Surgery,False,52,16,Deceased,109,,True,Brazil
+sdv-id-UIOVFn,72,F,Retinoblastoma,Right,2022-03-23,Stage II,Surgery,True,24,5,In Remission,65,BRAF Mutation,False,Australia
+sdv-id-XkZkQs,72,Other,Retinoblastoma,Bilateral,2024-02-19,Stage III,Chemotherapy,False,36,14,Active,120,,False,Brazil
+sdv-id-XAwFZZ,1,F,Melanoma,Left,2023-03-03,Stage II,Surgery,False,53,4,Deceased,22,,False,UK
+sdv-id-ojfxMv,72,F,Retinoblastoma,Right,2023-09-05,Stage IV,Surgery,False,57,13,Active,77,,False,South Africa
+sdv-id-LyunhK,1,F,Lymphoma,Right,2020-11-10,Stage I,Chemotherapy,False,51,20,Active,81,BRAF Mutation,False,Germany
+sdv-id-TJsrqH,48,Other,Retinoblastoma,Right,2023-09-15,Stage III,Radiation,False,44,10,Deceased,24,,False,Brazil
+sdv-id-sVoAeq,53,M,Retinoblastoma,Right,2019-01-02,Stage IV,Chemotherapy,False,3,19,In Remission,120,BRAF Mutation,False,Canada
+sdv-id-aWqZnq,67,Other,Melanoma,Bilateral,2023-09-13,Stage I,Surgery,False,63,5,Deceased,55,,True,India
+sdv-id-fSrVrx,72,Other,Lymphoma,Right,2024-04-24,Stage II,Surgery,False,61,8,In Remission,120,,True,Germany
+sdv-id-pWsCAf,49,M,Lymphoma,Bilateral,2023-09-07,Stage III,Radiation,True,5,13,In Remission,28,BRAF Mutation,True,UK
+sdv-id-NTExlF,23,F,Lymphoma,Left,2023-03-14,Stage I,Surgery,True,50,8,Active,117,,True,Canada
+sdv-id-IessIi,27,M,Melanoma,Left,2024-03-28,Stage III,Surgery,False,51,11,Active,39,,False,UK
+sdv-id-QIHDCL,30,Other,Lymphoma,Left,2019-10-27,Stage IV,Chemotherapy,False,59,20,Active,44,BRAF Mutation,True,Japan
+sdv-id-KwBBqs,20,M,Lymphoma,Right,2024-12-30,Stage IV,Chemotherapy,True,31,19,In Remission,55,BRAF Mutation,False,Australia
+sdv-id-pesJqG,47,Other,Lymphoma,Bilateral,2024-12-29,Stage II,Chemotherapy,False,51,6,In Remission,110,BRAF Mutation,True,South Africa
+sdv-id-xZjxKe,5,F,Melanoma,Right,2019-01-11,Stage IV,Chemotherapy,True,14,8,Active,87,BRAF Mutation,True,Germany
+sdv-id-qjbSpv,62,F,Melanoma,Right,2021-10-05,Stage I,Surgery,True,42,19,Deceased,112,,False,Australia
+sdv-id-QQzhqx,72,M,Retinoblastoma,Right,2024-08-15,Stage III,Chemotherapy,True,42,20,In Remission,35,BRAF Mutation,False,USA
+sdv-id-hiJwtJ,3,Other,Melanoma,Bilateral,2019-02-26,Stage III,Radiation,True,23,9,In Remission,89,BRAF Mutation,False,USA
+sdv-id-hInOqI,72,F,Melanoma,Bilateral,2019-12-27,Stage I,Chemotherapy,True,19,6,In Remission,28,,False,Australia
+sdv-id-ZawDrq,65,Other,Melanoma,Bilateral,2023-01-24,Stage I,Chemotherapy,True,22,18,Active,120,BRAF Mutation,False,Australia
+sdv-id-AjsPEf,70,Other,Melanoma,Right,2020-07-30,Stage III,Radiation,False,49,11,In Remission,90,,False,USA
+sdv-id-TknTKW,34,M,Melanoma,Left,2023-03-19,Stage III,Chemotherapy,True,50,6,In Remission,120,,False,Canada
+sdv-id-bSEvMe,72,F,Lymphoma,Bilateral,2023-08-04,Stage II,Chemotherapy,False,43,4,Deceased,104,BRAF Mutation,False,Canada
+sdv-id-lnYSEc,1,M,Lymphoma,Bilateral,2019-01-02,Stage II,Surgery,False,55,13,Deceased,120,,True,France
+sdv-id-QbADXF,43,F,Retinoblastoma,Bilateral,2024-04-13,Stage I,Surgery,False,50,13,Active,109,BRAF Mutation,True,Australia
+sdv-id-EWRZxU,57,Other,Melanoma,Right,2019-01-26,Stage III,Chemotherapy,True,52,9,Active,77,,False,South Africa
+sdv-id-HOkdTW,70,M,Melanoma,Bilateral,2024-03-12,Stage III,Surgery,True,31,8,Active,76,BRAF Mutation,True,South Africa
+sdv-id-utDQRA,72,Other,Lymphoma,Bilateral,2019-07-14,Stage III,Surgery,False,67,10,Deceased,61,BRAF Mutation,True,USA
+sdv-id-CickSK,48,M,Retinoblastoma,Left,2021-11-26,Stage II,Radiation,False,64,4,In Remission,29,BRAF Mutation,True,India
+sdv-id-nbItvl,70,M,Melanoma,Left,2020-10-11,Stage III,Chemotherapy,True,51,6,In Remission,77,,True,France
+sdv-id-GsLwGh,55,Other,Melanoma,Left,2021-07-29,Stage I,Radiation,False,19,7,In Remission,120,,True,India
+sdv-id-nXGRJx,72,Other,Melanoma,Right,2023-10-03,Stage III,Radiation,True,51,10,Active,97,,True,UK
+sdv-id-ejbxEU,72,M,Lymphoma,Bilateral,2024-08-16,Stage IV,Radiation,False,62,4,Deceased,86,BRAF Mutation,True,Brazil
+sdv-id-hkhKKm,41,Other,Lymphoma,Right,2024-01-03,Stage IV,Surgery,False,2,4,In Remission,93,BRAF Mutation,False,India
+sdv-id-pkgjgN,6,Other,Retinoblastoma,Left,2022-08-08,Stage I,Radiation,False,67,15,Active,60,,True,Australia
+sdv-id-wkqkqT,50,F,Lymphoma,Bilateral,2021-11-16,Stage I,Chemotherapy,True,21,4,In Remission,113,BRAF Mutation,False,Canada
+sdv-id-jPvwGS,72,Other,Retinoblastoma,Bilateral,2020-03-27,Stage I,Surgery,True,56,20,Deceased,78,,False,France
+sdv-id-YGyUFc,8,M,Lymphoma,Left,2021-12-31,Stage II,Radiation,False,41,4,In Remission,71,,True,Brazil
+sdv-id-LdCQSZ,37,F,Melanoma,Right,2024-12-30,Stage II,Radiation,False,35,4,Active,104,BRAF Mutation,False,Australia
+sdv-id-ixWdIn,72,Other,Lymphoma,Left,2019-12-23,Stage III,Chemotherapy,True,56,4,Deceased,64,,False,Australia
+sdv-id-EZiZhP,50,M,Melanoma,Bilateral,2023-12-06,Stage II,Radiation,True,54,20,Deceased,5,,False,UK
+sdv-id-VOBhFu,9,M,Retinoblastoma,Bilateral,2024-12-30,Stage III,Radiation,True,67,4,Active,28,,False,India
+sdv-id-LmuokU,62,Other,Retinoblastoma,Right,2023-10-20,Stage I,Radiation,False,39,20,In Remission,71,,True,France
+sdv-id-gVcESj,72,M,Melanoma,Left,2024-01-29,Stage I,Radiation,False,20,8,Deceased,20,,False,Germany
+sdv-id-ZsxUjh,41,F,Lymphoma,Left,2021-06-04,Stage II,Surgery,False,17,17,Active,78,,False,Canada
+sdv-id-SQatMJ,59,F,Retinoblastoma,Right,2023-12-27,Stage I,Surgery,False,20,4,In Remission,43,BRAF Mutation,True,Germany
+sdv-id-sYLHhd,50,Other,Lymphoma,Right,2023-02-02,Stage III,Radiation,False,2,16,Deceased,93,,True,India
+sdv-id-fHNNrA,37,Other,Melanoma,Bilateral,2022-02-05,Stage III,Surgery,False,55,10,In Remission,12,,True,Japan
+sdv-id-vkGbOx,1,M,Lymphoma,Bilateral,2024-09-02,Stage I,Surgery,True,45,20,Active,64,,True,France
+sdv-id-ydvAIU,69,M,Retinoblastoma,Right,2021-05-17,Stage III,Radiation,True,8,13,In Remission,58,BRAF Mutation,False,Australia
+sdv-id-HgTjwS,58,M,Melanoma,Left,2024-07-19,Stage I,Surgery,False,4,4,Deceased,72,,True,France
+sdv-id-vRGUvX,24,F,Retinoblastoma,Left,2024-12-30,Stage III,Radiation,False,67,5,Deceased,21,,True,Germany
+sdv-id-Gzqnvt,28,Other,Retinoblastoma,Right,2023-08-10,Stage I,Chemotherapy,False,21,8,Deceased,120,BRAF Mutation,False,Japan
+sdv-id-WLDumI,27,F,Lymphoma,Bilateral,2023-07-07,Stage III,Surgery,True,19,5,Active,90,,True,Brazil
+sdv-id-EZKsVm,13,Other,Melanoma,Bilateral,2019-12-27,Stage III,Radiation,False,27,11,In Remission,40,BRAF Mutation,True,USA
+sdv-id-KSyVCy,24,M,Lymphoma,Left,2019-01-02,Stage I,Chemotherapy,True,2,9,In Remission,64,,False,South Africa
+sdv-id-iplpMw,10,M,Lymphoma,Left,2019-09-25,Stage I,Chemotherapy,True,67,15,In Remission,1,BRAF Mutation,False,Japan
+sdv-id-ulxbda,43,F,Retinoblastoma,Bilateral,2020-05-23,Stage I,Radiation,True,62,20,In Remission,26,,False,France
+sdv-id-sEqwiV,72,M,Lymphoma,Right,2024-05-06,Stage II,Chemotherapy,True,56,10,In Remission,120,BRAF Mutation,True,Canada
+sdv-id-iYoXct,68,M,Retinoblastoma,Bilateral,2023-12-14,Stage II,Radiation,True,8,4,Deceased,120,BRAF Mutation,False,France
+sdv-id-JeecpV,71,F,Lymphoma,Left,2019-11-24,Stage IV,Surgery,False,54,20,Deceased,17,,True,Germany
+sdv-id-RyOajn,54,Other,Melanoma,Left,2020-04-27,Stage III,Chemotherapy,False,30,4,Deceased,95,,False,Brazil
+sdv-id-NQNlFL,1,F,Retinoblastoma,Bilateral,2020-11-08,Stage IV,Radiation,False,62,20,Active,31,,False,Germany
+sdv-id-pkTyvb,22,F,Retinoblastoma,Left,2024-11-03,Stage III,Radiation,False,16,4,In Remission,105,BRAF Mutation,False,Australia
+sdv-id-SEVyow,48,Other,Melanoma,Bilateral,2022-07-13,Stage I,Radiation,False,18,10,Active,97,BRAF Mutation,False,South Africa
+sdv-id-WOzPcl,35,Other,Lymphoma,Right,2020-11-07,Stage III,Radiation,True,14,4,Deceased,120,,True,Germany
+sdv-id-delolQ,31,Other,Lymphoma,Bilateral,2019-01-02,Stage I,Radiation,True,54,19,Deceased,48,BRAF Mutation,False,Germany
+sdv-id-uDLcRY,72,M,Lymphoma,Left,2020-04-03,Stage II,Surgery,True,19,19,In Remission,95,,True,India
+sdv-id-imWmaL,53,M,Retinoblastoma,Bilateral,2019-11-05,Stage I,Chemotherapy,False,50,6,Active,51,BRAF Mutation,False,UK
+sdv-id-uPPnBW,72,Other,Melanoma,Left,2023-12-03,Stage II,Chemotherapy,False,62,6,In Remission,114,,False,Germany
+sdv-id-McjAmX,28,Other,Lymphoma,Left,2024-04-07,Stage III,Surgery,False,67,16,Active,33,,True,Germany
+sdv-id-xgvuCt,59,M,Lymphoma,Left,2023-12-27,Stage III,Chemotherapy,False,62,10,Deceased,83,,False,South Africa
+sdv-id-bqYsZf,7,Other,Melanoma,Right,2024-08-04,Stage III,Surgery,False,53,9,Deceased,92,BRAF Mutation,False,Canada
+sdv-id-FtOlny,14,M,Retinoblastoma,Bilateral,2022-07-01,Stage IV,Chemotherapy,True,10,7,In Remission,110,BRAF Mutation,True,Japan
+sdv-id-ROUkBC,1,Other,Retinoblastoma,Bilateral,2024-05-29,Stage III,Surgery,True,10,20,Active,119,BRAF Mutation,True,India
+sdv-id-WrYrfl,11,M,Lymphoma,Right,2022-10-20,Stage II,Radiation,True,2,4,In Remission,50,,False,India
+sdv-id-mlZhNW,72,F,Lymphoma,Left,2020-07-29,Stage II,Radiation,False,57,9,Active,55,,True,Japan
+sdv-id-hcTghs,72,Other,Retinoblastoma,Bilateral,2019-09-02,Stage I,Surgery,True,7,20,Deceased,46,,True,South Africa
+sdv-id-bZIIsk,64,F,Lymphoma,Right,2021-12-02,Stage I,Radiation,True,35,20,Active,50,BRAF Mutation,False,France
+sdv-id-rUdJgJ,1,Other,Melanoma,Right,2022-05-19,Stage I,Radiation,False,53,9,Active,82,BRAF Mutation,False,Canada
